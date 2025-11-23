@@ -18,7 +18,7 @@ This project implements a token-level Named Entity Recognition (NER) model to de
 2.  **Modeling**: Fine-tuned `distilbert-base-uncased` for token classification.
 3.  **Latency Optimization**: Post-training, the model was converted to **TorchScript** with **Dynamic Quantization (int8)**. This reduced inference latency by ~50%, bringing it well under the 20ms budget.
 
-## Quick Start (for the user if they want to train the model themself and test it)
+## Quick Start (if you want to train the model and test it)
 
 ### 1\. Setup
 ```bash
@@ -75,6 +75,6 @@ python src/measure_latency.py --model_dir out_quantized --runs 100
   * `src/quantize.py`: Performs int8 dynamic quantization and TorchScript tracing.
   * `src/train.py`: Main training loop.
   * `out/`: Standard model artifacts (model file not included in repo due to size). You can download the `model.safetensors` using this link - *(gdrive link of the model)*
-  * `out_quantized/`: Optimized model artifacts (model file not included in repo due to size). You can download the `model.safetensors` using this link - *(gdrive link of the model)*
+  * `out_quantized/`: Optimized model artifacts (model file not included in repo due to size). You can download the `model.pt` using this link - *(gdrive link of the model)*
   * `out/dev_pred.json`: Final prediction output.
   * `out/test_pred.json`: Final test prediction output.
