@@ -1,0 +1,42 @@
+{
+  "utt_0201": [
+    {
+      "start": 9,
+      "end": 11,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 12,
+      "end": 44,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 60,
+      "end": 68,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "utt_0202": [
+    {
+      "start": 13,
+      "end": 18,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 22,
+      "end": 36,
+      "label": "DATE",
+      "pii": true
+    }
+  ]
+}

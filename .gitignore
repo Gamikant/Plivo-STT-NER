@@ -1,3 +1,4 @@
 .venv/
 
-out/model.safetensors
+out/*.safetensors
+out_quantized/*.pt
