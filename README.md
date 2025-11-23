@@ -92,3 +92,17 @@ python src/measure_latency.py --model_dir out_quantized --runs 100
   * `src/predict.py`: Inference script for standard models.
   * `src/measure_latency.py`: Latency benchmarking tool (supports TorchScript).
   * `out/dev_pred.json`: Final prediction output for the development set.
+
+### Checking quantized model predictions
+
+If you're skeptical whether the quantized model will not give the same metrics as the parent model. You can check it yourself by running these in order:
+
+(After you're done quantizing your model)
+
+```python
+# Generate predictions using the quantized model
+python src/predict_quantized.py
+
+# Evaluate the quantized predictions against the gold standard
+python src/eval_span_f1.py --gold data/dev.jsonl --pred out/dev_pred_quantized.json
+```
