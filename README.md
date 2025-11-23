@@ -74,7 +74,7 @@ python src/measure_latency.py --model_dir out_quantized --runs 100
   * `generate_data.py`: Generates synthetic noisy STT data.
   * `src/quantize.py`: Performs int8 dynamic quantization and TorchScript tracing.
   * `src/train.py`: Main training loop.
-  * `out/`: Standard model artifacts (model file not included in repo due to size). You can download the `model.safetensors` using this link - *(gdrive link of the model)*
-  * `out_quantized/`: Optimized model artifacts (model file not included in repo due to size). You can download the `model.pt` using this link - *(gdrive link of the model)*
+  * `out/`: Standard model artifacts (model file not included in repo due to size). You can download the `model.safetensors` using this link - https://drive.google.com/file/d/1d4BWZNRJlmFQj_EAn7A5YSslOnwiTW1G/view?usp=sharing
+  * `out_quantized/`: Optimized model artifacts (model file not included in repo due to size). You can download the `model.pt` using this link - https://drive.google.com/file/d/1UfzF34GJG_n1rFAZbBDnVCec_KZO83zq/view?usp=sharing
   * `out/dev_pred.json`: Final prediction output.
   * `out/test_pred.json`: Final test prediction output.
