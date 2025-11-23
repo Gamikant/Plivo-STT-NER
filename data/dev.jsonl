@@ -1,0 +1,200 @@
+{"id": "dev_0000", "text": "payment by 6646 6858 1576 8217 confirmed for 1 october 2024", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 59, "label": "DATE"}]}
+{"id": "dev_0001", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_0002", "text": "my name is sneha nair", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "dev_0003", "text": "use card 0396 0343 7406 9638 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0004", "text": "this is ramesh kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0005", "text": "rahul singh lives in pune", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 25, "label": "CITY"}]}
+{"id": "dev_0006", "text": "schedule the meeting for september 15", "entities": [{"start": 25, "end": 37, "label": "DATE"}]}
+{"id": "dev_0007", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "dev_0008", "text": "my number is one naught one six five five six five five five", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "dev_0009", "text": "pay using 9440 2736 8520 7342", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0010", "text": "from lucknow to bangalore on 23 september 2022", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 46, "label": "DATE"}]}
+{"id": "dev_0011", "text": "my name is rohan verma and email is varun dot yadav at hotmail dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "dev_0012", "text": "from bangalore to jaipur on 17 08 2023", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 24, "label": "CITY"}, {"start": 28, "end": 38, "label": "DATE"}]}
+{"id": "dev_0013", "text": "call 2527933514", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "dev_0014", "text": "my card number is 3919 2069 4869 2899", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "dev_0015", "text": "rohan gupta lives in hyderabad", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 30, "label": "CITY"}]}
+{"id": "dev_0016", "text": "send the details to arjun dot patel at outlook dot org please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "dev_0017", "text": "contact me on 1285979452 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "dev_0018", "text": "my email id is rahul dot reddy at gmail dot org", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "dev_0019", "text": "call 7 3 4 1 6 9 5 4 1 1", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "dev_0020", "text": "contact vikram yadav at 4334298027", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "dev_0021", "text": "use card 0364 5670 0185 2487 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0022", "text": "i am travelling to mumbai and then worli", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 40, "label": "LOCATION"}]}
+{"id": "dev_0023", "text": "use card 5291 5290 6513 7738 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0024", "text": "my name is sneha verma and email is suresh dot mehta at example dot org", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 71, "label": "EMAIL"}]}
+{"id": "dev_0025", "text": "from delhi to kolkata on 14 09 2020", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 21, "label": "CITY"}, {"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "dev_0026", "text": "my name is suresh kumar and email is kavita dot verma at hotmail dot com", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 72, "label": "EMAIL"}]}
+{"id": "dev_0027", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "dev_0028", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "dev_0029", "text": "use card 2658 7952 7608 1674 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0030", "text": "payment by 1417841984182835 confirmed for 15 02 2022", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}, {"start": 42, "end": 52, "label": "DATE"}]}
+{"id": "dev_0031", "text": "contact rohan sharma at zero three five nine oh three one nine oh three", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 71, "label": "PHONE"}]}
+{"id": "dev_0032", "text": "reach out to varun dot malhotra at yahoo dot in", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "dev_0033", "text": "my number is 7 0 8 8 4 2 6 6 2 7", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "dev_0034", "text": "ramesh kumar lives in jaipur", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 28, "label": "CITY"}]}
+{"id": "dev_0035", "text": "payment by 3252481396273798 confirmed for 18 june 2024", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}, {"start": 42, "end": 54, "label": "DATE"}]}
+{"id": "dev_0036", "text": "contact me on 0414299400 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "dev_0037", "text": "my number is 8542862562", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0038", "text": "send the details to vikram dot patel at outlook dot net please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "dev_0039", "text": "my email id is aditi dot patel at outlook dot org", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "dev_0040", "text": "send the details to ramesh dot yadav at example dot net please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "dev_0041", "text": "from lucknow to hyderabad on 10 08 2022", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "dev_0042", "text": "payment by 9419 5637 3795 2610 confirmed for 18 10 2029", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "dev_0043", "text": "from kolkata to ahmedabad on 14 08 2022", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "dev_0044", "text": "my name is aditi verma", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_0045", "text": "send the details to priyanka dot verma at gmail dot com please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "dev_0046", "text": "my email id is ramesh dot sharma at outlook dot net", "entities": [{"start": 15, "end": 51, "label": "EMAIL"}]}
+{"id": "dev_0047", "text": "from pune to pune on 4 june 2021", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 17, "label": "CITY"}, {"start": 21, "end": 32, "label": "DATE"}]}
+{"id": "dev_0048", "text": "send the details to priyanka dot sharma at hotmail dot co dot in please", "entities": [{"start": 20, "end": 64, "label": "EMAIL"}]}
+{"id": "dev_0049", "text": "contact me on 4 5 9 3 3 2 9 9 9 1 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0050", "text": "pay using 8824 5636 3156 7676", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0051", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "dev_0052", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_0053", "text": "my card number is 1172 3711 2338 8575", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "dev_0054", "text": "payment by 4512 3484 0546 7602 confirmed for 20 march 2021", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 58, "label": "DATE"}]}
+{"id": "dev_0055", "text": "pay using 4968 2666 9055 4302", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0056", "text": "my name is sneha kumar and email is neha dot kumar at outlook dot com", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "dev_0057", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_0058", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_0059", "text": "my number is four eight two eight eight four oh four six two", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "dev_0060", "text": "contact anjali reddy at 8787223764", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "dev_0061", "text": "pay using 5638 2161 7757 8482", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0062", "text": "schedule the meeting for august 13", "entities": [{"start": 25, "end": 34, "label": "DATE"}]}
+{"id": "dev_0063", "text": "call 8473228214", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "dev_0064", "text": "from chennai to hyderabad on 20 june 2026", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 41, "label": "DATE"}]}
+{"id": "dev_0065", "text": "my number is 9 9 1 1 0 9 0 5 9 4", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "dev_0066", "text": "my email id is arjun dot singh at gmail dot in", "entities": [{"start": 15, "end": 46, "label": "EMAIL"}]}
+{"id": "dev_0067", "text": "pay using 5252299531200817", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "dev_0068", "text": "contact me on one two six six one two four five five seven immediately", "entities": [{"start": 14, "end": 58, "label": "PHONE"}]}
+{"id": "dev_0069", "text": "my name is amit mehta and email is amit dot nair at outlook dot com", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}, {"start": 35, "end": 67, "label": "EMAIL"}]}
+{"id": "dev_0070", "text": "my card number is 0410 1914 2997 1752", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "dev_0071", "text": "pay using 0409789302335655", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "dev_0072", "text": "contact varun gupta at 2229701507", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0073", "text": "my name is rohan verma", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_0074", "text": "contact varun patel at 9 0 9 0 4 9 2 0 6 7", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 42, "label": "PHONE"}]}
+{"id": "dev_0075", "text": "send the details to aditi dot malhotra at outlook dot org please", "entities": [{"start": 20, "end": 57, "label": "EMAIL"}]}
+{"id": "dev_0076", "text": "ramesh patel lives in lucknow", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "dev_0077", "text": "i am travelling to jaipur and then cyber city", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 45, "label": "LOCATION"}]}
+{"id": "dev_0078", "text": "contact neha patel at 9725410805", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 32, "label": "PHONE"}]}
+{"id": "dev_0079", "text": "contact vikram patel at 4927841131", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "dev_0080", "text": "payment by 5992 4720 9384 4363 confirmed for 29 12 2023", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "dev_0081", "text": "schedule the meeting for 19 05 2022", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "dev_0082", "text": "neha iyer lives in chennai", "entities": [{"start": 0, "end": 9, "label": "PERSON_NAME"}, {"start": 19, "end": 26, "label": "CITY"}]}
+{"id": "dev_0083", "text": "i am travelling to ahmedabad and then indira nagar", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 50, "label": "LOCATION"}]}
+{"id": "dev_0084", "text": "my name is deepak yadav", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "dev_0085", "text": "my name is deepak nair", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "dev_0086", "text": "my name is neha gupta and email is rohan dot mehta at hotmail dot net", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}, {"start": 35, "end": 69, "label": "EMAIL"}]}
+{"id": "dev_0087", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "dev_0088", "text": "i am travelling to delhi and then mg road", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 41, "label": "LOCATION"}]}
+{"id": "dev_0089", "text": "payment by 4404 3666 9654 5245 confirmed for october 22", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "dev_0090", "text": "my number is 8475607962", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0091", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "dev_0092", "text": "use card 3092 0141 5238 7721 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0093", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "dev_0094", "text": "from kolkata to kolkata on 29 march 2022", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 23, "label": "CITY"}, {"start": 27, "end": 40, "label": "DATE"}]}
+{"id": "dev_0095", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_0096", "text": "this is priyanka malhotra speaking", "entities": [{"start": 8, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "dev_0097", "text": "reach out to kavita dot sharma at hotmail dot net", "entities": [{"start": 13, "end": 49, "label": "EMAIL"}]}
+{"id": "dev_0098", "text": "i was born on 20 may 2026", "entities": [{"start": 14, "end": 25, "label": "DATE"}]}
+{"id": "dev_0099", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "dev_0100", "text": "this is suresh verma speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0101", "text": "my name is kavita reddy and email is ramesh dot verma at yahoo dot com", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 70, "label": "EMAIL"}]}
+{"id": "dev_0102", "text": "pay using 5 7 8 3 0 0 5 2 5 2 1 9 4 6 0 0", "entities": [{"start": 10, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "dev_0103", "text": "schedule the meeting for 18 06 2025", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "dev_0104", "text": "contact priyanka iyer at 7307614799", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}, {"start": 25, "end": 35, "label": "PHONE"}]}
+{"id": "dev_0105", "text": "my card number is 5165 9132 5634 0934", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "dev_0106", "text": "pay using 6908 3777 3834 3173", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0107", "text": "my email id is anjali dot verma at outlook dot org", "entities": [{"start": 15, "end": 50, "label": "EMAIL"}]}
+{"id": "dev_0108", "text": "i am travelling to bangalore and then juhu beach", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "dev_0109", "text": "send the details to rohan dot nair at example dot org please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "dev_0110", "text": "my email id is aditi dot malhotra at yahoo dot org", "entities": [{"start": 15, "end": 50, "label": "EMAIL"}]}
+{"id": "dev_0111", "text": "reach out to ramesh dot nair at yahoo dot org", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "dev_0112", "text": "my email id is amit dot gupta at yahoo dot co dot in", "entities": [{"start": 15, "end": 52, "label": "EMAIL"}]}
+{"id": "dev_0113", "text": "priyanka verma lives in jaipur", "entities": [{"start": 0, "end": 14, "label": "PERSON_NAME"}, {"start": 24, "end": 30, "label": "CITY"}]}
+{"id": "dev_0114", "text": "payment by 1813 6838 5322 1544 confirmed for 21 05 2021", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "dev_0115", "text": "this is vikram gupta speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0116", "text": "schedule the meeting for march 10", "entities": [{"start": 25, "end": 33, "label": "DATE"}]}
+{"id": "dev_0117", "text": "send the details to deepak dot kumar at yahoo dot org please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "dev_0118", "text": "contact me on seven nine four three seven eight eight zero two eight immediately", "entities": [{"start": 14, "end": 68, "label": "PHONE"}]}
+{"id": "dev_0119", "text": "schedule the meeting for april 7", "entities": [{"start": 25, "end": 32, "label": "DATE"}]}
+{"id": "dev_0120", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "dev_0121", "text": "contact me on three zero two one five seven four one two three immediately", "entities": [{"start": 14, "end": 62, "label": "PHONE"}]}
+{"id": "dev_0122", "text": "contact rohan kumar at 9 9 4 5 2 9 9 5 1 4", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 42, "label": "PHONE"}]}
+{"id": "dev_0123", "text": "reach out to rahul dot nair at gmail dot co dot in", "entities": [{"start": 13, "end": 50, "label": "EMAIL"}]}
+{"id": "dev_0124", "text": "contact me on 2 7 7 0 2 2 9 9 5 9 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0125", "text": "schedule the meeting for february 24", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "dev_0126", "text": "call 7846677894", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "dev_0127", "text": "pay using 6101 7925 8378 8502", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0128", "text": "i was born on 03 09 2027", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "dev_0129", "text": "reach out to amit dot yadav at hotmail dot org", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "dev_0130", "text": "neha malhotra lives in lucknow", "entities": [{"start": 0, "end": 13, "label": "PERSON_NAME"}, {"start": 23, "end": 30, "label": "CITY"}]}
+{"id": "dev_0131", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "dev_0132", "text": "from mumbai to ahmedabad on october 3", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 24, "label": "CITY"}, {"start": 28, "end": 37, "label": "DATE"}]}
+{"id": "dev_0133", "text": "my name is kavita kumar and email is ramesh dot verma at example dot com", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 72, "label": "EMAIL"}]}
+{"id": "dev_0134", "text": "my name is neha yadav and email is arjun dot iyer at hotmail dot com", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}, {"start": 35, "end": 68, "label": "EMAIL"}]}
+{"id": "dev_0135", "text": "schedule the meeting for november 6", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "dev_0136", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_0137", "text": "contact me on one six four nine one five two zero one one immediately", "entities": [{"start": 14, "end": 57, "label": "PHONE"}]}
+{"id": "dev_0138", "text": "use card 8042 9587 6610 3776 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0139", "text": "i live in ahmedabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "dev_0140", "text": "rohan singh lives in lucknow", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "dev_0141", "text": "my number is two six four five seven four zero six eight eight", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "dev_0142", "text": "call 7049323759", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "dev_0143", "text": "from pune to chennai on 7 november 2020", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 20, "label": "CITY"}, {"start": 24, "end": 39, "label": "DATE"}]}
+{"id": "dev_0144", "text": "i was born on february 26", "entities": [{"start": 14, "end": 25, "label": "DATE"}]}
+{"id": "dev_0145", "text": "this is kavita patel speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0146", "text": "i am travelling to mumbai and then cyber city", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 45, "label": "LOCATION"}]}
+{"id": "dev_0147", "text": "contact me on 7 4 0 4 3 9 1 3 7 3 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0148", "text": "use card 4922 1381 2518 9095 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0149", "text": "my name is suresh mehta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "dev_0150", "text": "call 3 2 2 6 2 1 1 3 3 6", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "dev_0151", "text": "pay using 0342 6153 4942 0041", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0152", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "dev_0153", "text": "my number is 5261072300", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0154", "text": "this is rohan patel speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_0155", "text": "reach out to anjali dot yadav at yahoo dot net", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "dev_0156", "text": "suresh singh lives in pune", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 26, "label": "CITY"}]}
+{"id": "dev_0157", "text": "this is ramesh gupta speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0158", "text": "use card 6472 8403 2662 0947 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0159", "text": "my email id is arjun dot singh at yahoo dot org", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "dev_0160", "text": "my number is 0411086807", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0161", "text": "call five five three eight nine four nine four four nine", "entities": [{"start": 5, "end": 56, "label": "PHONE"}]}
+{"id": "dev_0162", "text": "my email id is rohan dot malhotra at gmail dot com", "entities": [{"start": 15, "end": 50, "label": "EMAIL"}]}
+{"id": "dev_0163", "text": "pay using 8463 2117 7192 4799", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0164", "text": "contact me on 4 7 7 9 7 9 7 8 1 7 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0165", "text": "this is kavita reddy speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "dev_0166", "text": "schedule the meeting for 26 september 2021", "entities": [{"start": 25, "end": 42, "label": "DATE"}]}
+{"id": "dev_0167", "text": "reach out to vikram dot sharma at yahoo dot co dot in", "entities": [{"start": 13, "end": 53, "label": "EMAIL"}]}
+{"id": "dev_0168", "text": "from kolkata to jaipur on 10 may 2022", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 37, "label": "DATE"}]}
+{"id": "dev_0169", "text": "pay using 8 2 9 2 6 3 0 9 8 6 2 3 6 7 9 1", "entities": [{"start": 10, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "dev_0170", "text": "i am travelling to ahmedabad and then mg road", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 45, "label": "LOCATION"}]}
+{"id": "dev_0171", "text": "pay using eight two four zero eight seven seven nine one eight seven five three seven eight seven", "entities": [{"start": 10, "end": 97, "label": "CREDIT_CARD"}]}
+{"id": "dev_0172", "text": "contact deepak yadav at 6 8 5 4 6 3 2 5 6 8", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 43, "label": "PHONE"}]}
+{"id": "dev_0173", "text": "i am travelling to ahmedabad and then indira nagar", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 50, "label": "LOCATION"}]}
+{"id": "dev_0174", "text": "my name is anjali reddy", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "dev_0175", "text": "payment by 1144 5989 9846 4543 confirmed for 30 10 2023", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "dev_0176", "text": "from kolkata to jaipur on august 10", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 35, "label": "DATE"}]}
+{"id": "dev_0177", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "dev_0178", "text": "pay using 0510 0650 5372 2325", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "dev_0179", "text": "meet me at indira nagar", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_0180", "text": "my email id is kavita dot sharma at example dot net", "entities": [{"start": 15, "end": 51, "label": "EMAIL"}]}
+{"id": "dev_0181", "text": "from pune to bangalore on 4 december 2030", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 22, "label": "CITY"}, {"start": 26, "end": 41, "label": "DATE"}]}
+{"id": "dev_0182", "text": "schedule the meeting for 10 june 2030", "entities": [{"start": 25, "end": 37, "label": "DATE"}]}
+{"id": "dev_0183", "text": "i am travelling to ahmedabad and then whitefield", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "dev_0184", "text": "use card 2456 0031 4093 3201 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0185", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "dev_0186", "text": "from hyderabad to chennai on 13 february 2028", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 45, "label": "DATE"}]}
+{"id": "dev_0187", "text": "my number is 2449207493", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0188", "text": "contact me on 3 4 9 4 4 1 1 7 7 9 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "dev_0189", "text": "my number is 5956199119", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "dev_0190", "text": "my name is aditi mehta and email is suresh dot singh at example dot co dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 77, "label": "EMAIL"}]}
+{"id": "dev_0191", "text": "my email id is rahul dot mehta at gmail dot net", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "dev_0192", "text": "this is neha sharma speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "dev_0193", "text": "reach out to amit dot nair at outlook dot com", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "dev_0194", "text": "call eight one six three seven four seven nine six naught", "entities": [{"start": 5, "end": 57, "label": "PHONE"}]}
+{"id": "dev_0195", "text": "contact amit iyer at 6 8 7 3 7 7 9 0 9 6", "entities": [{"start": 8, "end": 17, "label": "PERSON_NAME"}, {"start": 21, "end": 40, "label": "PHONE"}]}
+{"id": "dev_0196", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "dev_0197", "text": "schedule the meeting for february 23", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "dev_0198", "text": "use card 3105 8890 6041 9728 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "dev_0199", "text": "this is vikram patel speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}

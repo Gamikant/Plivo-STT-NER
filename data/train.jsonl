@@ -1,0 +1,1000 @@
+{"id": "train_0000", "text": "call 8866089958", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0001", "text": "schedule the meeting for 09 11 2027", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0002", "text": "i was born on 5 october 2021", "entities": [{"start": 14, "end": 28, "label": "DATE"}]}
+{"id": "train_0003", "text": "contact arjun yadav at 1897113570", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0004", "text": "payment by 1829 1527 5868 5170 confirmed for 2 december 2029", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 60, "label": "DATE"}]}
+{"id": "train_0005", "text": "payment by 8672 5916 0078 7851 confirmed for 9 may 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0006", "text": "use card 9 0 2 8 9 6 5 9 8 8 8 2 4 2 8 1 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0007", "text": "sneha singh lives in jaipur", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 27, "label": "CITY"}]}
+{"id": "train_0008", "text": "contact me on 9 5 7 7 5 2 2 7 9 1 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0009", "text": "reach out to arjun dot singh at yahoo dot com", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0010", "text": "my email id is neha dot patel at example dot net", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0011", "text": "deepak kumar lives in hyderabad", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 31, "label": "CITY"}]}
+{"id": "train_0012", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0013", "text": "pay using 3762 1297 6243 2143", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0014", "text": "i was born on 28 august 2020", "entities": [{"start": 14, "end": 28, "label": "DATE"}]}
+{"id": "train_0015", "text": "contact me on 8 0 0 1 3 6 7 9 3 3 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0016", "text": "my number is seven one six five four one five four one nine", "entities": [{"start": 13, "end": 59, "label": "PHONE"}]}
+{"id": "train_0017", "text": "my number is eight seven eight three seven seven one three six naught", "entities": [{"start": 13, "end": 69, "label": "PHONE"}]}
+{"id": "train_0018", "text": "my name is vikram verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0019", "text": "i am travelling to mumbai and then worli", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 40, "label": "LOCATION"}]}
+{"id": "train_0020", "text": "i am travelling to chennai and then mg road", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0021", "text": "my card number is 0175 0879 9724 8296", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0022", "text": "pay using 1058 3798 6863 2406", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0023", "text": "i am travelling to lucknow and then koramangala", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 47, "label": "LOCATION"}]}
+{"id": "train_0024", "text": "my card number is 2131 5465 0159 6108", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0025", "text": "i am travelling to ahmedabad and then indira nagar", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 50, "label": "LOCATION"}]}
+{"id": "train_0026", "text": "send the details to rahul dot mehta at gmail dot in please", "entities": [{"start": 20, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0027", "text": "this is vikram singh speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0028", "text": "my email id is suresh dot mehta at yahoo dot co dot in", "entities": [{"start": 15, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0029", "text": "payment by 6470 0155 4364 2090 confirmed for 09 09 2023", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0030", "text": "my email id is priyanka dot verma at hotmail dot net", "entities": [{"start": 15, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0031", "text": "contact me on six three four oh nine two two nine four one immediately", "entities": [{"start": 14, "end": 58, "label": "PHONE"}]}
+{"id": "train_0032", "text": "schedule the meeting for 19 01 2025", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0033", "text": "my name is deepak gupta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0034", "text": "my name is priyanka yadav", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "train_0035", "text": "my name is aditi kumar and email is ramesh dot verma at example dot co dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 77, "label": "EMAIL"}]}
+{"id": "train_0036", "text": "this is vikram malhotra speaking", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0037", "text": "contact deepak iyer at naught nine eight six naught four one one one six", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 72, "label": "PHONE"}]}
+{"id": "train_0038", "text": "contact me on 3 1 7 9 5 7 0 2 2 9 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0039", "text": "my number is four naught oh naught zero two four five two oh", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "train_0040", "text": "pay using 3849 4230 0827 3203", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0041", "text": "contact me on 7 9 6 5 8 7 8 3 8 4 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0042", "text": "pay using nine seven nine three seven three oh two oh zero eight eight five four six three", "entities": [{"start": 10, "end": 90, "label": "CREDIT_CARD"}]}
+{"id": "train_0043", "text": "my name is rohan reddy and email is deepak dot verma at example dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 70, "label": "EMAIL"}]}
+{"id": "train_0044", "text": "i am travelling to bangalore and then worli", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0045", "text": "i live in bangalore", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0046", "text": "this is rohan yadav speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0047", "text": "this is ramesh reddy speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0048", "text": "from pune to jaipur on march 16", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 19, "label": "CITY"}, {"start": 23, "end": 31, "label": "DATE"}]}
+{"id": "train_0049", "text": "schedule the meeting for 27 october 2026", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0050", "text": "this is deepak yadav speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0051", "text": "this is sneha reddy speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0052", "text": "use card 3 5 4 6 2 7 5 3 9 3 8 0 1 8 1 0 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0053", "text": "my name is rohan iyer", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0054", "text": "anjali patel lives in kolkata", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "train_0055", "text": "from chennai to delhi on june 3", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 21, "label": "CITY"}, {"start": 25, "end": 31, "label": "DATE"}]}
+{"id": "train_0056", "text": "contact me on 6417639977 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0057", "text": "payment by 8706 1955 7316 5235 confirmed for august 4", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 53, "label": "DATE"}]}
+{"id": "train_0058", "text": "this is sneha gupta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0059", "text": "this is rohan reddy speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0060", "text": "call 8873605969", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0061", "text": "my number is 8587026481", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0062", "text": "pay using 7885772233269273", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "train_0063", "text": "this is suresh gupta speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0064", "text": "payment by 5404 3092 6723 1273 confirmed for 18 09 2028", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0065", "text": "my name is anjali iyer", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0066", "text": "this is suresh kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0067", "text": "payment by 8615 4879 6232 2362 confirmed for march 14", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 53, "label": "DATE"}]}
+{"id": "train_0068", "text": "my name is rahul kumar", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0069", "text": "my number is nine one three naught nine one two three four one", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "train_0070", "text": "call 0155160167", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0071", "text": "contact deepak kumar at five eight five three seven two five seven two nine", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 75, "label": "PHONE"}]}
+{"id": "train_0072", "text": "from delhi to pune on august 16", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 18, "label": "CITY"}, {"start": 22, "end": 31, "label": "DATE"}]}
+{"id": "train_0073", "text": "send the details to anjali dot yadav at yahoo dot com please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0074", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0075", "text": "payment by 4037 5634 5810 9814 confirmed for 31 06 2030", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0076", "text": "payment by 9093 3067 8337 4533 confirmed for 24 10 2027", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0077", "text": "contact vikram verma at 1844591626", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "train_0078", "text": "my name is neha mehta", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0079", "text": "use card 2138 1879 1873 0570 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0080", "text": "meet me at indira nagar", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0081", "text": "contact me on 0 5 8 6 8 4 1 5 3 8 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0082", "text": "my email id is priyanka dot nair at yahoo dot org", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0083", "text": "my name is neha mehta", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0084", "text": "deepak yadav lives in kolkata", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "train_0085", "text": "pay using 2436 2349 8704 8990", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0086", "text": "contact deepak mehta at 6 3 7 9 0 1 8 2 2 8", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 43, "label": "PHONE"}]}
+{"id": "train_0087", "text": "send the details to sneha dot kumar at example dot com please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0088", "text": "call 5 9 4 7 6 7 2 4 4 5", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0089", "text": "my name is aditi gupta and email is vikram dot mehta at yahoo dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 68, "label": "EMAIL"}]}
+{"id": "train_0090", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0091", "text": "my email id is amit dot patel at outlook dot org", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0092", "text": "my card number is 8 0 6 1 1 0 4 6 1 7 4 7 9 1 3 3", "entities": [{"start": 18, "end": 49, "label": "CREDIT_CARD"}]}
+{"id": "train_0093", "text": "use card 9597 5184 2891 7297 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0094", "text": "i was born on october 25", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0095", "text": "from delhi to chennai on june 19", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 21, "label": "CITY"}, {"start": 25, "end": 32, "label": "DATE"}]}
+{"id": "train_0096", "text": "my email id is deepak dot mehta at hotmail dot co dot in", "entities": [{"start": 15, "end": 56, "label": "EMAIL"}]}
+{"id": "train_0097", "text": "reach out to deepak dot verma at yahoo dot org", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0098", "text": "use card 5704 5533 9815 7975 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0099", "text": "my name is arjun mehta and email is rahul dot iyer at gmail dot net", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 67, "label": "EMAIL"}]}
+{"id": "train_0100", "text": "i am travelling to kolkata and then mg road", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0101", "text": "schedule the meeting for 03 10 2028", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0102", "text": "my email id is sneha dot singh at outlook dot com", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0103", "text": "my number is 0 0 7 8 4 3 0 9 0 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0104", "text": "contact me on five eight eight eight one six seven four three nine immediately", "entities": [{"start": 14, "end": 66, "label": "PHONE"}]}
+{"id": "train_0105", "text": "contact rohan iyer at 6 7 4 1 2 2 2 0 6 4", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 41, "label": "PHONE"}]}
+{"id": "train_0106", "text": "my number is 0 6 0 0 0 2 3 1 1 6", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0107", "text": "contact me on 2410403390 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0108", "text": "from lucknow to chennai on 23 june 2021", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 23, "label": "CITY"}, {"start": 27, "end": 39, "label": "DATE"}]}
+{"id": "train_0109", "text": "call 7 9 3 9 7 2 9 1 0 8", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0110", "text": "reach out to amit dot patel at example dot org", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0111", "text": "meet me at indira nagar", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0112", "text": "payment by 0453 3585 7052 1077 confirmed for 8 november 2023", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 60, "label": "DATE"}]}
+{"id": "train_0113", "text": "my card number is 0738 4201 3315 6432", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0114", "text": "my name is kavita mehta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0115", "text": "payment by 0633 8242 1729 9642 confirmed for december 20", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 56, "label": "DATE"}]}
+{"id": "train_0116", "text": "i am travelling to delhi and then connaught place", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0117", "text": "from delhi to kolkata on 31 november 2029", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 21, "label": "CITY"}, {"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0118", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0119", "text": "payment by 7532 8955 9815 1956 confirmed for 26 05 2021", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0120", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0121", "text": "i was born on 27 june 2021", "entities": [{"start": 14, "end": 26, "label": "DATE"}]}
+{"id": "train_0122", "text": "ramesh malhotra lives in pune", "entities": [{"start": 0, "end": 15, "label": "PERSON_NAME"}, {"start": 25, "end": 29, "label": "CITY"}]}
+{"id": "train_0123", "text": "payment by 7032 5081 9471 1185 confirmed for 3 october 2020", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 59, "label": "DATE"}]}
+{"id": "train_0124", "text": "payment by 6 1 1 4 9 4 1 6 1 4 2 0 8 9 6 7 confirmed for november 19", "entities": [{"start": 11, "end": 42, "label": "CREDIT_CARD"}, {"start": 57, "end": 68, "label": "DATE"}]}
+{"id": "train_0125", "text": "i am travelling to hyderabad and then marine drive", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 50, "label": "LOCATION"}]}
+{"id": "train_0126", "text": "from bangalore to delhi on april 23", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 23, "label": "CITY"}, {"start": 27, "end": 35, "label": "DATE"}]}
+{"id": "train_0127", "text": "use card 1 3 8 5 2 6 8 3 5 7 1 7 3 9 3 0 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0128", "text": "my name is vikram mehta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0129", "text": "my number is 1337258057", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0130", "text": "payment by 3851 6013 2043 5161 confirmed for 9 march 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 57, "label": "DATE"}]}
+{"id": "train_0131", "text": "my card number is 6279 8613 6992 1876", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0132", "text": "i live in lucknow", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0133", "text": "this is arjun kumar speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0134", "text": "my number is 6 7 5 2 6 9 0 3 6 3", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0135", "text": "this is kavita verma speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0136", "text": "send the details to vikram dot iyer at outlook dot org please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0137", "text": "send the details to sneha dot singh at yahoo dot co dot in please", "entities": [{"start": 20, "end": 58, "label": "EMAIL"}]}
+{"id": "train_0138", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0139", "text": "i was born on 8 march 2027", "entities": [{"start": 14, "end": 26, "label": "DATE"}]}
+{"id": "train_0140", "text": "pay using 0251 2512 8678 2327", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0141", "text": "use card 1028 0730 5771 8938 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0142", "text": "my name is aditi patel", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0143", "text": "reach out to amit dot gupta at hotmail dot co dot in", "entities": [{"start": 13, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0144", "text": "my name is anjali verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0145", "text": "contact neha mehta at nine four nine four three eight five seven seven six", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 74, "label": "PHONE"}]}
+{"id": "train_0146", "text": "contact deepak sharma at nine three six three three two two six six three", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}, {"start": 25, "end": 73, "label": "PHONE"}]}
+{"id": "train_0147", "text": "i live in ahmedabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0148", "text": "payment by 1909 8815 1308 6936 confirmed for 31 august 2026", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 59, "label": "DATE"}]}
+{"id": "train_0149", "text": "call 6063005299", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0150", "text": "this is priyanka gupta speaking", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0151", "text": "contact rahul mehta at 0877668762", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0152", "text": "from mumbai to pune on march 4", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 19, "label": "CITY"}, {"start": 23, "end": 30, "label": "DATE"}]}
+{"id": "train_0153", "text": "i live in hyderabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0154", "text": "reach out to ramesh dot nair at outlook dot net", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0155", "text": "my name is neha reddy and email is amit dot yadav at gmail dot in", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}, {"start": 35, "end": 65, "label": "EMAIL"}]}
+{"id": "train_0156", "text": "reach out to priyanka dot patel at example dot in", "entities": [{"start": 13, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0157", "text": "this is varun mehta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0158", "text": "my email id is rohan dot malhotra at yahoo dot co dot in", "entities": [{"start": 15, "end": 56, "label": "EMAIL"}]}
+{"id": "train_0159", "text": "i am travelling to ahmedabad and then cyber city", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "train_0160", "text": "schedule the meeting for 07 11 2027", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0161", "text": "my name is sneha patel and email is deepak dot malhotra at hotmail dot net", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 74, "label": "EMAIL"}]}
+{"id": "train_0162", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0163", "text": "i live in hyderabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0164", "text": "contact me on 3062724033 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0165", "text": "use card 3768 3325 3626 7989 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0166", "text": "contact amit kumar at 1 0 3 3 3 7 9 9 6 8", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 41, "label": "PHONE"}]}
+{"id": "train_0167", "text": "contact me on 9014010243 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0168", "text": "my card number is 3091 6235 3957 0692", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0169", "text": "reach out to ramesh dot mehta at gmail dot net", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0170", "text": "my email id is anjali dot nair at gmail dot in", "entities": [{"start": 15, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0171", "text": "my number is six six seven three eight seven one two eight two", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "train_0172", "text": "pay using 8362355629274200", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "train_0173", "text": "call 4870231083", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0174", "text": "this is priyanka gupta speaking", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0175", "text": "my name is rahul yadav", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0176", "text": "call 4343218881", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0177", "text": "i live in bangalore", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0178", "text": "this is ramesh reddy speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0179", "text": "reach out to amit dot gupta at gmail dot in", "entities": [{"start": 13, "end": 43, "label": "EMAIL"}]}
+{"id": "train_0180", "text": "use card 2038 1871 9351 7293 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0181", "text": "schedule the meeting for 18 02 2027", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0182", "text": "this is amit iyer speaking", "entities": [{"start": 8, "end": 17, "label": "PERSON_NAME"}]}
+{"id": "train_0183", "text": "reach out to amit dot iyer at hotmail dot co dot in", "entities": [{"start": 13, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0184", "text": "call zero two nine five six two three nine nine seven", "entities": [{"start": 5, "end": 53, "label": "PHONE"}]}
+{"id": "train_0185", "text": "from bangalore to jaipur on march 14", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 24, "label": "CITY"}, {"start": 28, "end": 36, "label": "DATE"}]}
+{"id": "train_0186", "text": "send the details to aditi dot patel at hotmail dot co dot in please", "entities": [{"start": 20, "end": 60, "label": "EMAIL"}]}
+{"id": "train_0187", "text": "i was born on 29 07 2023", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0188", "text": "i was born on 26 october 2028", "entities": [{"start": 14, "end": 29, "label": "DATE"}]}
+{"id": "train_0189", "text": "schedule the meeting for january 12", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0190", "text": "call nine four eight seven one oh five six eight two", "entities": [{"start": 5, "end": 52, "label": "PHONE"}]}
+{"id": "train_0191", "text": "pay using 0790 4641 8855 7069", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0192", "text": "my number is 7 8 2 1 8 9 5 5 9 1", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0193", "text": "call 5 4 6 6 5 5 3 1 0 5", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0194", "text": "reach out to rohan dot nair at example dot org", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0195", "text": "this is rohan nair speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0196", "text": "contact me on one six oh four nine five seven eight four four immediately", "entities": [{"start": 14, "end": 61, "label": "PHONE"}]}
+{"id": "train_0197", "text": "my name is rohan malhotra", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "train_0198", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0199", "text": "reach out to suresh dot kumar at outlook dot org", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0200", "text": "pay using 9252 9878 5324 5494", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0201", "text": "reach out to priyanka dot sharma at yahoo dot org", "entities": [{"start": 13, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0202", "text": "reach out to rahul dot patel at gmail dot co dot in", "entities": [{"start": 13, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0203", "text": "use card 2465 3566 8773 4178 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0204", "text": "from lucknow to mumbai on july 18", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 33, "label": "DATE"}]}
+{"id": "train_0205", "text": "deepak verma lives in kolkata", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "train_0206", "text": "use card 6462 5764 0650 4119 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0207", "text": "i was born on june 13", "entities": [{"start": 14, "end": 21, "label": "DATE"}]}
+{"id": "train_0208", "text": "meet me at juhu beach", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0209", "text": "my card number is 7176 3301 0481 3178", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0210", "text": "reach out to vikram dot mehta at hotmail dot org", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0211", "text": "my number is 2 2 1 0 6 3 0 0 7 0", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0212", "text": "contact me on 7175793513 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0213", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0214", "text": "schedule the meeting for 25 08 2025", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0215", "text": "payment by 8589 0716 0569 7825 confirmed for 08 05 2020", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0216", "text": "deepak patel lives in kolkata", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "train_0217", "text": "this is suresh patel speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0218", "text": "meet me at juhu beach", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0219", "text": "rahul kumar lives in jaipur", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 27, "label": "CITY"}]}
+{"id": "train_0220", "text": "my name is priyanka sharma and email is arjun dot mehta at gmail dot org", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 40, "end": 72, "label": "EMAIL"}]}
+{"id": "train_0221", "text": "my number is 2 6 5 4 4 5 6 0 4 9", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0222", "text": "my card number is 4276 6500 6608 0003", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0223", "text": "my card number is 8084 0688 8302 9439", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0224", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0225", "text": "use card 9704 7702 4818 4288 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0226", "text": "my number is 8022570841", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0227", "text": "contact me on 3095779369 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0228", "text": "use card 7975 1845 6073 0780 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0229", "text": "i am travelling to hyderabad and then worli", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0230", "text": "send the details to amit dot sharma at example dot co dot in please", "entities": [{"start": 20, "end": 60, "label": "EMAIL"}]}
+{"id": "train_0231", "text": "contact me on 7155487026 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0232", "text": "use card 3 6 7 6 4 3 5 8 9 6 7 3 5 7 8 7 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0233", "text": "i am travelling to chennai and then cyber city", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0234", "text": "my email id is arjun dot sharma at hotmail dot in", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0235", "text": "from pune to lucknow on april 15", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 20, "label": "CITY"}, {"start": 24, "end": 32, "label": "DATE"}]}
+{"id": "train_0236", "text": "neha iyer lives in chennai", "entities": [{"start": 0, "end": 9, "label": "PERSON_NAME"}, {"start": 19, "end": 26, "label": "CITY"}]}
+{"id": "train_0237", "text": "use card 3 0 8 8 6 0 5 1 6 8 6 5 8 0 4 7 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0238", "text": "meet me at mg road", "entities": [{"start": 11, "end": 18, "label": "LOCATION"}]}
+{"id": "train_0239", "text": "schedule the meeting for march 13", "entities": [{"start": 25, "end": 33, "label": "DATE"}]}
+{"id": "train_0240", "text": "schedule the meeting for 7 september 2029", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0241", "text": "i am travelling to lucknow and then cyber city", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0242", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0243", "text": "contact arjun patel at five one three eight seven five two nine two three", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 73, "label": "PHONE"}]}
+{"id": "train_0244", "text": "my email id is ramesh dot yadav at hotmail dot org", "entities": [{"start": 15, "end": 50, "label": "EMAIL"}]}
+{"id": "train_0245", "text": "schedule the meeting for 4 may 2027", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0246", "text": "from lucknow to pune on 10 may 2025", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 20, "label": "CITY"}, {"start": 24, "end": 35, "label": "DATE"}]}
+{"id": "train_0247", "text": "contact me on 6 3 2 0 0 7 5 7 2 4 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0248", "text": "i was born on november 21", "entities": [{"start": 14, "end": 25, "label": "DATE"}]}
+{"id": "train_0249", "text": "my email id is kavita dot singh at gmail dot org", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0250", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0251", "text": "call one nine three three six four six five six six", "entities": [{"start": 5, "end": 51, "label": "PHONE"}]}
+{"id": "train_0252", "text": "this is arjun mehta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0253", "text": "contact aditi verma at four three six four three six five one four two", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 70, "label": "PHONE"}]}
+{"id": "train_0254", "text": "suresh kumar lives in kolkata", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 29, "label": "CITY"}]}
+{"id": "train_0255", "text": "schedule the meeting for 8 april 2022", "entities": [{"start": 25, "end": 37, "label": "DATE"}]}
+{"id": "train_0256", "text": "rohan verma lives in hyderabad", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 30, "label": "CITY"}]}
+{"id": "train_0257", "text": "i am travelling to delhi and then cyber city", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 44, "label": "LOCATION"}]}
+{"id": "train_0258", "text": "my card number is 1648 1404 3768 6196", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0259", "text": "my name is sneha malhotra and email is anjali dot gupta at hotmail dot co dot in", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 39, "end": 80, "label": "EMAIL"}]}
+{"id": "train_0260", "text": "from kolkata to pune on september 19", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 20, "label": "CITY"}, {"start": 24, "end": 36, "label": "DATE"}]}
+{"id": "train_0261", "text": "my name is varun kumar and email is ramesh dot malhotra at hotmail dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 73, "label": "EMAIL"}]}
+{"id": "train_0262", "text": "my card number is 8642 6679 9553 5784", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0263", "text": "my email id is sneha dot mehta at example dot net", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0264", "text": "my number is 5 9 4 5 1 2 9 0 0 0", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0265", "text": "my name is anjali mehta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0266", "text": "send the details to rohan dot patel at hotmail dot in please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0267", "text": "contact me on 9299512888 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0268", "text": "i am travelling to delhi and then connaught place", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0269", "text": "from pune to delhi on july 10", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 18, "label": "CITY"}, {"start": 22, "end": 29, "label": "DATE"}]}
+{"id": "train_0270", "text": "i was born on 24 05 2022", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0271", "text": "my number is 3995637106", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0272", "text": "schedule the meeting for 10 november 2030", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0273", "text": "reach out to amit dot yadav at hotmail dot in", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0274", "text": "my number is nine seven nine three zero five six oh three seven", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "train_0275", "text": "use card 8029 6130 1302 4182 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0276", "text": "use card 5 9 7 0 4 9 2 6 2 5 0 7 3 4 4 2 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0277", "text": "contact me on 1 0 0 1 6 2 4 7 8 1 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0278", "text": "this is arjun mehta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0279", "text": "send the details to ramesh dot singh at example dot com please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0280", "text": "i was born on 30 november 2029", "entities": [{"start": 14, "end": 30, "label": "DATE"}]}
+{"id": "train_0281", "text": "use card 0153 1198 1593 9788 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0282", "text": "send the details to aditi dot yadav at example dot net please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0283", "text": "from jaipur to bangalore on 05 05 2023", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 24, "label": "CITY"}, {"start": 28, "end": 38, "label": "DATE"}]}
+{"id": "train_0284", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0285", "text": "send the details to suresh dot malhotra at hotmail dot com please", "entities": [{"start": 20, "end": 58, "label": "EMAIL"}]}
+{"id": "train_0286", "text": "from chennai to hyderabad on 12 july 2027", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 41, "label": "DATE"}]}
+{"id": "train_0287", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0288", "text": "this is anjali iyer speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0289", "text": "my card number is 4233 1610 5016 1250", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0290", "text": "i was born on 19 april 2021", "entities": [{"start": 14, "end": 27, "label": "DATE"}]}
+{"id": "train_0291", "text": "schedule the meeting for 14 01 2023", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0292", "text": "my name is kavita verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0293", "text": "use card 3450 1205 1513 2002 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0294", "text": "my name is arjun yadav", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0295", "text": "contact neha kumar at 8105349903", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 32, "label": "PHONE"}]}
+{"id": "train_0296", "text": "contact rohan iyer at six nine seven three seven five one one three four", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 72, "label": "PHONE"}]}
+{"id": "train_0297", "text": "i am travelling to lucknow and then cyber city", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0298", "text": "pay using 0481 3006 0788 7571", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0299", "text": "my number is four six eight zero seven two five three five five", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "train_0300", "text": "from bangalore to chennai on 16 09 2026", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "train_0301", "text": "priyanka mehta lives in delhi", "entities": [{"start": 0, "end": 14, "label": "PERSON_NAME"}, {"start": 24, "end": 29, "label": "CITY"}]}
+{"id": "train_0302", "text": "call eight two three eight oh nine one four nine three", "entities": [{"start": 5, "end": 54, "label": "PHONE"}]}
+{"id": "train_0303", "text": "send the details to varun dot iyer at hotmail dot co dot in please", "entities": [{"start": 20, "end": 59, "label": "EMAIL"}]}
+{"id": "train_0304", "text": "pay using 8 2 6 2 5 2 9 5 7 6 1 7 9 7 7 6", "entities": [{"start": 10, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "train_0305", "text": "contact me on 2 9 2 3 1 2 6 0 8 4 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0306", "text": "contact me on 9866781038 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0307", "text": "contact me on 4788798669 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0308", "text": "my card number is 5736 3393 3253 8321", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0309", "text": "priyanka sharma lives in lucknow", "entities": [{"start": 0, "end": 15, "label": "PERSON_NAME"}, {"start": 25, "end": 32, "label": "CITY"}]}
+{"id": "train_0310", "text": "schedule the meeting for february 25", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "train_0311", "text": "contact kavita iyer at four oh eight seven five five three nine seven nine", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 74, "label": "PHONE"}]}
+{"id": "train_0312", "text": "payment by 6542 3413 4292 2390 confirmed for 21 may 2023", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 56, "label": "DATE"}]}
+{"id": "train_0313", "text": "payment by 7795 9959 2637 2054 confirmed for 11 july 2030", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 57, "label": "DATE"}]}
+{"id": "train_0314", "text": "i live in bangalore", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0315", "text": "my number is 6554594834", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0316", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0317", "text": "use card 8946 9312 0992 7348 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0318", "text": "payment by 9245 7000 1479 1105 confirmed for may 24", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 51, "label": "DATE"}]}
+{"id": "train_0319", "text": "contact anjali malhotra at 4 2 4 3 4 1 0 3 2 2", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 27, "end": 46, "label": "PHONE"}]}
+{"id": "train_0320", "text": "i am travelling to chennai and then mg road", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0321", "text": "meet me at juhu beach", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0322", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0323", "text": "my number is 4 2 6 9 0 3 2 7 8 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0324", "text": "payment by 9908 3056 6340 0070 confirmed for 21 05 2021", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0325", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0326", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0327", "text": "reach out to ramesh dot kumar at gmail dot co dot in", "entities": [{"start": 13, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0328", "text": "i live in lucknow", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0329", "text": "contact me on 4 1 6 0 0 0 5 1 7 3 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0330", "text": "i was born on september 24", "entities": [{"start": 14, "end": 26, "label": "DATE"}]}
+{"id": "train_0331", "text": "this is rohan nair speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0332", "text": "my email id is ramesh dot nair at gmail dot com", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0333", "text": "schedule the meeting for 17 may 2030", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "train_0334", "text": "i was born on 16 september 2020", "entities": [{"start": 14, "end": 31, "label": "DATE"}]}
+{"id": "train_0335", "text": "call six six six two oh four zero six four two", "entities": [{"start": 5, "end": 46, "label": "PHONE"}]}
+{"id": "train_0336", "text": "pay using 9583 6422 2664 6733", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0337", "text": "this is deepak kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0338", "text": "payment by 2989 5804 7287 0257 confirmed for 1 december 2022", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 60, "label": "DATE"}]}
+{"id": "train_0339", "text": "schedule the meeting for 30 march 2025", "entities": [{"start": 25, "end": 38, "label": "DATE"}]}
+{"id": "train_0340", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0341", "text": "call seven oh nine eight two one four one one six", "entities": [{"start": 5, "end": 49, "label": "PHONE"}]}
+{"id": "train_0342", "text": "contact deepak mehta at 8476187800", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "train_0343", "text": "this is rohan malhotra speaking", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0344", "text": "my card number is 4206 4206 4737 5303", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0345", "text": "i am travelling to delhi and then mg road", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 41, "label": "LOCATION"}]}
+{"id": "train_0346", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0347", "text": "i live in jaipur", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0348", "text": "send the details to ramesh dot singh at example dot org please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0349", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "train_0350", "text": "my card number is 9552 6763 5973 6984", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0351", "text": "my name is varun iyer", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0352", "text": "contact me on 2828971426 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0353", "text": "my email id is kavita dot reddy at example dot net", "entities": [{"start": 15, "end": 50, "label": "EMAIL"}]}
+{"id": "train_0354", "text": "meet me at mg road", "entities": [{"start": 11, "end": 18, "label": "LOCATION"}]}
+{"id": "train_0355", "text": "from mumbai to lucknow on 7 june 2020", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 22, "label": "CITY"}, {"start": 26, "end": 37, "label": "DATE"}]}
+{"id": "train_0356", "text": "payment by five three seven nine eight seven oh six four six eight five nine three one one confirmed for 08 03 2027", "entities": [{"start": 11, "end": 90, "label": "CREDIT_CARD"}, {"start": 105, "end": 115, "label": "DATE"}]}
+{"id": "train_0357", "text": "schedule the meeting for december 21", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "train_0358", "text": "reach out to rahul dot malhotra at yahoo dot com", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0359", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0360", "text": "my card number is 0167 8161 8624 1396", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0361", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0362", "text": "my email id is suresh dot verma at yahoo dot net", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0363", "text": "reach out to vikram dot yadav at example dot net", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0364", "text": "my card number is 7262 3884 2116 2603", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0365", "text": "use card 0739906240490040 for the transaction", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "train_0366", "text": "reach out to ramesh dot mehta at example dot net", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0367", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0368", "text": "schedule the meeting for april 5", "entities": [{"start": 25, "end": 32, "label": "DATE"}]}
+{"id": "train_0369", "text": "i live in jaipur", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0370", "text": "pay using 5421 9732 6826 4398", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0371", "text": "my card number is 8030583326563313", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "train_0372", "text": "from delhi to delhi on november 25", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 19, "label": "CITY"}, {"start": 23, "end": 34, "label": "DATE"}]}
+{"id": "train_0373", "text": "send the details to rahul dot reddy at hotmail dot co dot in please", "entities": [{"start": 20, "end": 60, "label": "EMAIL"}]}
+{"id": "train_0374", "text": "i live in ahmedabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0375", "text": "my email id is kavita dot reddy at gmail dot net", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0376", "text": "contact me on 5 2 5 4 2 3 8 0 8 7 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0377", "text": "i am travelling to chennai and then koramangala", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 47, "label": "LOCATION"}]}
+{"id": "train_0378", "text": "i am travelling to jaipur and then whitefield", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 45, "label": "LOCATION"}]}
+{"id": "train_0379", "text": "i am travelling to hyderabad and then koramangala", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0380", "text": "my email id is anjali dot iyer at outlook dot co dot in", "entities": [{"start": 15, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0381", "text": "my number is 8444645122", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0382", "text": "my number is four zero three five eight six eight two seven naught", "entities": [{"start": 13, "end": 66, "label": "PHONE"}]}
+{"id": "train_0383", "text": "i was born on 20 january 2025", "entities": [{"start": 14, "end": 29, "label": "DATE"}]}
+{"id": "train_0384", "text": "my name is vikram sharma", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "train_0385", "text": "reach out to neha dot mehta at hotmail dot net", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0386", "text": "payment by 8896 5005 6163 9900 confirmed for october 6", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 54, "label": "DATE"}]}
+{"id": "train_0387", "text": "i was born on 15 01 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0388", "text": "my number is 3 0 6 4 3 2 8 0 2 8", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0389", "text": "i am travelling to pune and then whitefield", "entities": [{"start": 19, "end": 23, "label": "CITY"}, {"start": 33, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0390", "text": "my email id is anjali dot yadav at outlook dot in", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0391", "text": "i was born on 26 april 2023", "entities": [{"start": 14, "end": 27, "label": "DATE"}]}
+{"id": "train_0392", "text": "payment by 8937 8323 1755 7499 confirmed for 18 may 2028", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 56, "label": "DATE"}]}
+{"id": "train_0393", "text": "i am travelling to delhi and then whitefield", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 44, "label": "LOCATION"}]}
+{"id": "train_0394", "text": "from chennai to jaipur on 25 11 2025", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 36, "label": "DATE"}]}
+{"id": "train_0395", "text": "from lucknow to hyderabad on 20 12 2021", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "train_0396", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0397", "text": "reach out to rahul dot verma at example dot org", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0398", "text": "payment by 1596 3425 8794 7872 confirmed for 22 04 2030", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0399", "text": "contact vikram kumar at 1 4 1 4 0 0 9 4 8 9", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 43, "label": "PHONE"}]}
+{"id": "train_0400", "text": "my name is suresh reddy and email is rahul dot singh at gmail dot in", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 68, "label": "EMAIL"}]}
+{"id": "train_0401", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0402", "text": "my card number is oh four four nine oh eight five seven eight four one seven seven nine four one", "entities": [{"start": 18, "end": 96, "label": "CREDIT_CARD"}]}
+{"id": "train_0403", "text": "schedule the meeting for 22 december 2024", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0404", "text": "my name is suresh verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0405", "text": "my name is deepak iyer and email is priyanka dot singh at yahoo dot org", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 71, "label": "EMAIL"}]}
+{"id": "train_0406", "text": "use card 4569 6119 7239 0749 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0407", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0408", "text": "my email id is sneha dot mehta at example dot in", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0409", "text": "my number is two nine seven two four nine eight nine three four", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "train_0410", "text": "pay using 7 2 6 4 0 1 6 9 0 1 6 8 8 7 3 3", "entities": [{"start": 10, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "train_0411", "text": "pay using 2551 7007 7268 3835", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0412", "text": "reach out to vikram dot yadav at outlook dot com", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0413", "text": "contact rahul sharma at one zero five nine seven zero three zero seven eight", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 76, "label": "PHONE"}]}
+{"id": "train_0414", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0415", "text": "my email id is sneha dot reddy at gmail dot com", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0416", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0417", "text": "schedule the meeting for march 11", "entities": [{"start": 25, "end": 33, "label": "DATE"}]}
+{"id": "train_0418", "text": "from hyderabad to kolkata on october 24", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "train_0419", "text": "my name is varun kumar", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0420", "text": "my name is arjun kumar and email is amit dot mehta at yahoo dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 66, "label": "EMAIL"}]}
+{"id": "train_0421", "text": "my name is amit nair and email is vikram dot malhotra at outlook dot org", "entities": [{"start": 11, "end": 20, "label": "PERSON_NAME"}, {"start": 34, "end": 72, "label": "EMAIL"}]}
+{"id": "train_0422", "text": "use card 9012 6610 5741 4536 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0423", "text": "my number is 8 8 6 8 2 3 0 9 2 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0424", "text": "schedule the meeting for 9 december 2030", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0425", "text": "my number is three naught seven six six zero two four two one", "entities": [{"start": 13, "end": 61, "label": "PHONE"}]}
+{"id": "train_0426", "text": "payment by 1011 4769 9900 0786 confirmed for april 29", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 53, "label": "DATE"}]}
+{"id": "train_0427", "text": "reach out to rahul dot mehta at hotmail dot com", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0428", "text": "call six five seven one five five eight nine nine one", "entities": [{"start": 5, "end": 53, "label": "PHONE"}]}
+{"id": "train_0429", "text": "i am travelling to kolkata and then juhu beach", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0430", "text": "reach out to aditi dot verma at gmail dot in", "entities": [{"start": 13, "end": 44, "label": "EMAIL"}]}
+{"id": "train_0431", "text": "contact me on 0 4 4 3 1 3 6 4 2 7 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0432", "text": "reach out to anjali dot kumar at gmail dot com", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0433", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0434", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0435", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "train_0436", "text": "this is arjun patel speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0437", "text": "payment by 9603 2867 2947 6977 confirmed for 14 august 2020", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 59, "label": "DATE"}]}
+{"id": "train_0438", "text": "this is arjun yadav speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0439", "text": "schedule the meeting for march 29", "entities": [{"start": 25, "end": 33, "label": "DATE"}]}
+{"id": "train_0440", "text": "my card number is 2665 0919 9110 9067", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0441", "text": "my name is ramesh malhotra and email is vikram dot reddy at gmail dot org", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 40, "end": 73, "label": "EMAIL"}]}
+{"id": "train_0442", "text": "from bangalore to jaipur on april 8", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 24, "label": "CITY"}, {"start": 28, "end": 35, "label": "DATE"}]}
+{"id": "train_0443", "text": "this is deepak yadav speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0444", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0445", "text": "contact me on 7 0 2 6 3 4 5 6 5 2 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0446", "text": "send the details to sneha dot patel at example dot co dot in please", "entities": [{"start": 20, "end": 60, "label": "EMAIL"}]}
+{"id": "train_0447", "text": "contact rahul kumar at three six zero one oh two four two eight seven", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 69, "label": "PHONE"}]}
+{"id": "train_0448", "text": "my name is deepak nair and email is amit dot verma at hotmail dot co dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 75, "label": "EMAIL"}]}
+{"id": "train_0449", "text": "use card 0 6 5 2 8 1 7 6 6 1 5 2 8 0 9 9 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0450", "text": "my name is aditi singh", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0451", "text": "my name is suresh iyer and email is sneha dot singh at gmail dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 67, "label": "EMAIL"}]}
+{"id": "train_0452", "text": "my card number is 2087 9851 2706 7469", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0453", "text": "call four naught nine eight naught eight oh three seven seven", "entities": [{"start": 5, "end": 61, "label": "PHONE"}]}
+{"id": "train_0454", "text": "contact vikram patel at naught eight seven four three four six naught one five", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 78, "label": "PHONE"}]}
+{"id": "train_0455", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0456", "text": "rahul patel lives in pune", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 25, "label": "CITY"}]}
+{"id": "train_0457", "text": "my card number is four five naught nine one nine one eight seven three naught one nine nine six nine", "entities": [{"start": 18, "end": 100, "label": "CREDIT_CARD"}]}
+{"id": "train_0458", "text": "my name is suresh malhotra", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}]}
+{"id": "train_0459", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0460", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0461", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0462", "text": "this is ramesh patel speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0463", "text": "send the details to kavita dot verma at outlook dot net please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0464", "text": "send the details to rahul dot patel at example dot com please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0465", "text": "schedule the meeting for 14 november 2022", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0466", "text": "call 8 7 6 9 8 3 0 0 2 3", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0467", "text": "my number is 9 1 4 6 8 6 5 4 6 1", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0468", "text": "payment by 9056 5453 4089 5036 confirmed for 13 10 2027", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0469", "text": "my card number is 0505 9585 5278 2720", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0470", "text": "pay using 0306 1866 6246 9879", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0471", "text": "contact me on 7 9 1 6 7 4 2 4 2 0 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0472", "text": "my number is 4 5 6 6 8 4 8 1 5 8", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0473", "text": "my name is deepak verma and email is suresh dot singh at outlook dot in", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 71, "label": "EMAIL"}]}
+{"id": "train_0474", "text": "use card 1890 4251 6642 8860 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0475", "text": "pay using two five oh six naught naught one seven four four five seven two seven nine two", "entities": [{"start": 10, "end": 89, "label": "CREDIT_CARD"}]}
+{"id": "train_0476", "text": "contact me on two six naught six nine three two two zero four immediately", "entities": [{"start": 14, "end": 61, "label": "PHONE"}]}
+{"id": "train_0477", "text": "contact me on 1822522812 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0478", "text": "i am travelling to pune and then juhu beach", "entities": [{"start": 19, "end": 23, "label": "CITY"}, {"start": 33, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0479", "text": "reach out to rohan dot patel at hotmail dot org", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0480", "text": "reach out to neha dot patel at hotmail dot co dot in", "entities": [{"start": 13, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0481", "text": "from ahmedabad to lucknow on 14 january 2027", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 44, "label": "DATE"}]}
+{"id": "train_0482", "text": "call 2 1 6 4 5 3 6 2 4 1", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0483", "text": "send the details to arjun dot singh at yahoo dot co dot in please", "entities": [{"start": 20, "end": 58, "label": "EMAIL"}]}
+{"id": "train_0484", "text": "schedule the meeting for 3 december 2026", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0485", "text": "send the details to varun dot nair at yahoo dot com please", "entities": [{"start": 20, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0486", "text": "this is sneha gupta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0487", "text": "use card 8227 4164 5574 9262 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0488", "text": "from jaipur to pune on 24 05 2021", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 19, "label": "CITY"}, {"start": 23, "end": 33, "label": "DATE"}]}
+{"id": "train_0489", "text": "i am travelling to pune and then indira nagar", "entities": [{"start": 19, "end": 23, "label": "CITY"}, {"start": 33, "end": 45, "label": "LOCATION"}]}
+{"id": "train_0490", "text": "use card 3801 9978 5250 2946 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0491", "text": "reach out to rahul dot reddy at gmail dot org", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0492", "text": "call 8575215115", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0493", "text": "use card 4788084564079264 for the transaction", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "train_0494", "text": "my email id is neha dot mehta at gmail dot com", "entities": [{"start": 15, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0495", "text": "schedule the meeting for january 2", "entities": [{"start": 25, "end": 34, "label": "DATE"}]}
+{"id": "train_0496", "text": "payment by six three one oh one one four two naught seven one three naught five three two confirmed for 06 12 2021", "entities": [{"start": 11, "end": 89, "label": "CREDIT_CARD"}, {"start": 104, "end": 114, "label": "DATE"}]}
+{"id": "train_0497", "text": "payment by 4821 4749 0323 5651 confirmed for 4 may 2024", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0498", "text": "i am travelling to bangalore and then mg road", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 45, "label": "LOCATION"}]}
+{"id": "train_0499", "text": "my name is sneha gupta and email is vikram dot singh at gmail dot com", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "train_0500", "text": "call 9 4 3 3 8 8 9 0 8 9", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0501", "text": "my card number is 5258 8344 2504 9466", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0502", "text": "payment by 8294 8213 5358 0150 confirmed for 28 february 2027", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 61, "label": "DATE"}]}
+{"id": "train_0503", "text": "call five zero one eight zero oh four seven naught seven", "entities": [{"start": 5, "end": 56, "label": "PHONE"}]}
+{"id": "train_0504", "text": "send the details to aditi dot patel at yahoo dot org please", "entities": [{"start": 20, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0505", "text": "my card number is six eight eight three six oh four seven nine eight seven three nine six seven eight", "entities": [{"start": 18, "end": 101, "label": "CREDIT_CARD"}]}
+{"id": "train_0506", "text": "i am travelling to ahmedabad and then marine drive", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 50, "label": "LOCATION"}]}
+{"id": "train_0507", "text": "my name is ramesh reddy and email is suresh dot singh at yahoo dot co dot in", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 76, "label": "EMAIL"}]}
+{"id": "train_0508", "text": "my email id is amit dot gupta at outlook dot com", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0509", "text": "contact me on 4 3 1 2 5 9 3 0 7 0 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0510", "text": "my email id is aditi dot reddy at yahoo dot net", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0511", "text": "my card number is 4076 0266 1229 0990", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0512", "text": "schedule the meeting for 22 october 2024", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0513", "text": "my card number is 5023 0584 8855 6249", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0514", "text": "from delhi to jaipur on 28 march 2027", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 20, "label": "CITY"}, {"start": 24, "end": 37, "label": "DATE"}]}
+{"id": "train_0515", "text": "from hyderabad to chennai on december 1", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 39, "label": "DATE"}]}
+{"id": "train_0516", "text": "send the details to deepak dot gupta at gmail dot net please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0517", "text": "my card number is 9861 5343 5633 1636", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0518", "text": "my name is vikram mehta and email is rahul dot mehta at example dot net", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 71, "label": "EMAIL"}]}
+{"id": "train_0519", "text": "pay using 1911 7538 9732 4691", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0520", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0521", "text": "i am travelling to mumbai and then whitefield", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 45, "label": "LOCATION"}]}
+{"id": "train_0522", "text": "pay using nine five eight eight six four three two eight eight seven four nine two two six", "entities": [{"start": 10, "end": 90, "label": "CREDIT_CARD"}]}
+{"id": "train_0523", "text": "this is suresh mehta speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0524", "text": "i live in hyderabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0525", "text": "schedule the meeting for 14 november 2030", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0526", "text": "call 7454381007", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0527", "text": "call oh three seven six two five naught six two oh", "entities": [{"start": 5, "end": 50, "label": "PHONE"}]}
+{"id": "train_0528", "text": "i am travelling to mumbai and then worli", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 40, "label": "LOCATION"}]}
+{"id": "train_0529", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0530", "text": "i am travelling to kolkata and then mg road", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0531", "text": "contact me on nine two oh five six five six one oh six immediately", "entities": [{"start": 14, "end": 54, "label": "PHONE"}]}
+{"id": "train_0532", "text": "payment by 7082 1906 1758 6522 confirmed for 29 04 2028", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0533", "text": "contact vikram gupta at 4 5 9 3 2 4 1 6 1 7", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 43, "label": "PHONE"}]}
+{"id": "train_0534", "text": "payment by 9019 7441 0765 2574 confirmed for 30 05 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0535", "text": "this is aditi gupta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0536", "text": "my email id is arjun dot nair at example dot co dot in", "entities": [{"start": 15, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0537", "text": "reach out to rahul dot verma at example dot org", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0538", "text": "send the details to arjun dot reddy at gmail dot co dot in please", "entities": [{"start": 20, "end": 58, "label": "EMAIL"}]}
+{"id": "train_0539", "text": "my name is rahul malhotra", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "train_0540", "text": "i am travelling to bangalore and then juhu beach", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "train_0541", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0542", "text": "i am travelling to chennai and then connaught place", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 51, "label": "LOCATION"}]}
+{"id": "train_0543", "text": "payment by 1 2 9 8 6 3 9 1 4 1 6 4 6 8 3 2 confirmed for january 30", "entities": [{"start": 11, "end": 42, "label": "CREDIT_CARD"}, {"start": 57, "end": 67, "label": "DATE"}]}
+{"id": "train_0544", "text": "rohan verma lives in chennai", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "train_0545", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0546", "text": "my number is 4 7 5 6 9 6 8 4 3 8", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0547", "text": "i am travelling to jaipur and then mg road", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 42, "label": "LOCATION"}]}
+{"id": "train_0548", "text": "schedule the meeting for 25 june 2027", "entities": [{"start": 25, "end": 37, "label": "DATE"}]}
+{"id": "train_0549", "text": "my name is ramesh mehta and email is arjun dot singh at hotmail dot in", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 70, "label": "EMAIL"}]}
+{"id": "train_0550", "text": "from bangalore to pune on 30 august 2023", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 22, "label": "CITY"}, {"start": 26, "end": 40, "label": "DATE"}]}
+{"id": "train_0551", "text": "reach out to neha dot iyer at outlook dot org", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0552", "text": "this is varun singh speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0553", "text": "contact me on two six oh seven three six nine three nine two immediately", "entities": [{"start": 14, "end": 60, "label": "PHONE"}]}
+{"id": "train_0554", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0555", "text": "schedule the meeting for 18 may 2025", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "train_0556", "text": "send the details to priyanka dot gupta at example dot co dot in please", "entities": [{"start": 20, "end": 63, "label": "EMAIL"}]}
+{"id": "train_0557", "text": "pay using 0766 8535 7769 0779", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0558", "text": "this is deepak kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0559", "text": "my name is aditi sharma and email is anjali dot kumar at gmail dot org", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 70, "label": "EMAIL"}]}
+{"id": "train_0560", "text": "i was born on 2 may 2023", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0561", "text": "call 4 7 4 6 5 1 1 2 9 6", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0562", "text": "my card number is 4764 7503 4686 0979", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0563", "text": "from ahmedabad to kolkata on february 17", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 25, "label": "CITY"}, {"start": 29, "end": 40, "label": "DATE"}]}
+{"id": "train_0564", "text": "contact sneha malhotra at two six five five two two nine five seven six", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}, {"start": 26, "end": 71, "label": "PHONE"}]}
+{"id": "train_0565", "text": "send the details to sneha dot yadav at hotmail dot org please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0566", "text": "my email id is rahul dot mehta at gmail dot co dot in", "entities": [{"start": 15, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0567", "text": "payment by 5 8 6 5 3 5 2 6 2 2 1 5 3 3 0 6 confirmed for 16 10 2025", "entities": [{"start": 11, "end": 42, "label": "CREDIT_CARD"}, {"start": 57, "end": 67, "label": "DATE"}]}
+{"id": "train_0568", "text": "use card 4521 5826 6065 9285 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0569", "text": "my name is kavita patel and email is neha dot iyer at gmail dot net", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 67, "label": "EMAIL"}]}
+{"id": "train_0570", "text": "from kolkata to chennai on june 9", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 23, "label": "CITY"}, {"start": 27, "end": 33, "label": "DATE"}]}
+{"id": "train_0571", "text": "my name is suresh yadav and email is aditi dot verma at yahoo dot net", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 69, "label": "EMAIL"}]}
+{"id": "train_0572", "text": "payment by 7414 2506 9420 0132 confirmed for 31 december 2029", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 61, "label": "DATE"}]}
+{"id": "train_0573", "text": "reach out to ramesh dot verma at example dot org", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0574", "text": "my email id is ramesh dot malhotra at hotmail dot com", "entities": [{"start": 15, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0575", "text": "schedule the meeting for 20 12 2023", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0576", "text": "pay using 6 0 3 0 1 0 1 0 3 3 6 0 3 8 7 1", "entities": [{"start": 10, "end": 41, "label": "CREDIT_CARD"}]}
+{"id": "train_0577", "text": "send the details to neha dot singh at hotmail dot com please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0578", "text": "contact me on 5564468842 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0579", "text": "my email id is varun dot verma at yahoo dot co dot in", "entities": [{"start": 15, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0580", "text": "use card 7061794265817675 for the transaction", "entities": [{"start": 9, "end": 25, "label": "CREDIT_CARD"}]}
+{"id": "train_0581", "text": "my name is aditi reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0582", "text": "my number is 5 0 4 7 9 9 2 7 6 9", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0583", "text": "amit iyer lives in mumbai", "entities": [{"start": 0, "end": 9, "label": "PERSON_NAME"}, {"start": 19, "end": 25, "label": "CITY"}]}
+{"id": "train_0584", "text": "from ahmedabad to jaipur on 18 09 2028", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 24, "label": "CITY"}, {"start": 28, "end": 38, "label": "DATE"}]}
+{"id": "train_0585", "text": "my card number is 9762758228743524", "entities": [{"start": 18, "end": 34, "label": "CREDIT_CARD"}]}
+{"id": "train_0586", "text": "call two one naught naught one naught six two oh four", "entities": [{"start": 5, "end": 53, "label": "PHONE"}]}
+{"id": "train_0587", "text": "i am travelling to lucknow and then mg road", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0588", "text": "my email id is aditi dot nair at example dot net", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0589", "text": "meet me at mg road", "entities": [{"start": 11, "end": 18, "label": "LOCATION"}]}
+{"id": "train_0590", "text": "pay using 8337 2889 1175 7511", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0591", "text": "pay using 3188 6812 9470 6132", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0592", "text": "my name is neha malhotra and email is anjali dot reddy at yahoo dot co dot in", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 38, "end": 77, "label": "EMAIL"}]}
+{"id": "train_0593", "text": "contact neha reddy at 1 4 6 1 3 2 4 7 7 6", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 41, "label": "PHONE"}]}
+{"id": "train_0594", "text": "my card number is 5188 0025 8253 9986", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0595", "text": "schedule the meeting for september 1", "entities": [{"start": 25, "end": 36, "label": "DATE"}]}
+{"id": "train_0596", "text": "my name is arjun kumar", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0597", "text": "my card number is 6707 4871 5467 3514", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0598", "text": "my name is sneha verma", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0599", "text": "send the details to anjali dot iyer at example dot net please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0600", "text": "contact amit patel at oh nine seven oh eight one three nine two two", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 67, "label": "PHONE"}]}
+{"id": "train_0601", "text": "use card 5919 0888 8162 1395 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0602", "text": "send the details to rahul dot sharma at gmail dot in please", "entities": [{"start": 20, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0603", "text": "my card number is 2012 6782 5363 1690", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0604", "text": "i live in lucknow", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0605", "text": "from ahmedabad to ahmedabad on 29 september 2023", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 27, "label": "CITY"}, {"start": 31, "end": 48, "label": "DATE"}]}
+{"id": "train_0606", "text": "i am travelling to bangalore and then cyber city", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "train_0607", "text": "pay using 8925 3202 3937 1644", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0608", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0609", "text": "i live in jaipur", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0610", "text": "use card 8370 3459 6022 7766 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0611", "text": "my card number is 1887 1259 7382 1592", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0612", "text": "contact me on two two naught eight seven eight four six naught one immediately", "entities": [{"start": 14, "end": 66, "label": "PHONE"}]}
+{"id": "train_0613", "text": "from mumbai to mumbai on 30 03 2025", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 21, "label": "CITY"}, {"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0614", "text": "my name is ramesh iyer and email is anjali dot mehta at gmail dot co dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 75, "label": "EMAIL"}]}
+{"id": "train_0615", "text": "payment by 9475 9678 3606 1697 confirmed for february 8", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0616", "text": "my name is rahul gupta", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0617", "text": "i was born on 06 11 2026", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0618", "text": "my name is rohan nair", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0619", "text": "i live in jaipur", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0620", "text": "schedule the meeting for august 22", "entities": [{"start": 25, "end": 34, "label": "DATE"}]}
+{"id": "train_0621", "text": "contact me on 3 7 7 8 4 0 7 1 7 0 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0622", "text": "payment by 8535 3063 5802 4190 confirmed for 10 march 2022", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 58, "label": "DATE"}]}
+{"id": "train_0623", "text": "reach out to ramesh dot gupta at gmail dot co dot in", "entities": [{"start": 13, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0624", "text": "rohan verma lives in bangalore", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 30, "label": "CITY"}]}
+{"id": "train_0625", "text": "my number is 1 7 0 5 9 4 2 2 3 1", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0626", "text": "my name is suresh malhotra", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}]}
+{"id": "train_0627", "text": "payment by 4332 2444 7018 4038 confirmed for 27 04 2028", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0628", "text": "reach out to kavita dot patel at example dot in", "entities": [{"start": 13, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0629", "text": "contact me on 7156682240 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0630", "text": "i was born on october 10", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0631", "text": "payment by 6 1 1 5 2 3 1 7 0 7 4 8 0 8 8 3 confirmed for 10 05 2020", "entities": [{"start": 11, "end": 42, "label": "CREDIT_CARD"}, {"start": 57, "end": 67, "label": "DATE"}]}
+{"id": "train_0632", "text": "call five eight eight eight eight five six three five oh", "entities": [{"start": 5, "end": 56, "label": "PHONE"}]}
+{"id": "train_0633", "text": "contact aditi singh at 2 2 0 7 1 8 6 3 9 2", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 42, "label": "PHONE"}]}
+{"id": "train_0634", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0635", "text": "use card 9294 3787 6500 6777 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0636", "text": "my number is seven nine two three seven one nine five seven one", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "train_0637", "text": "send the details to deepak dot patel at hotmail dot co dot in please", "entities": [{"start": 20, "end": 61, "label": "EMAIL"}]}
+{"id": "train_0638", "text": "meet me at juhu beach", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0639", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0640", "text": "my email id is priyanka dot singh at yahoo dot co dot in", "entities": [{"start": 15, "end": 56, "label": "EMAIL"}]}
+{"id": "train_0641", "text": "reach out to neha dot malhotra at yahoo dot co dot in", "entities": [{"start": 13, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0642", "text": "from pune to hyderabad on 14 01 2027", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 22, "label": "CITY"}, {"start": 26, "end": 36, "label": "DATE"}]}
+{"id": "train_0643", "text": "use card 9947 4281 8828 8583 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0644", "text": "my card number is 5414 4496 1727 3045", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0645", "text": "my email id is ramesh dot iyer at yahoo dot net", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0646", "text": "schedule the meeting for 28 08 2029", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0647", "text": "i was born on 19 02 2029", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0648", "text": "pay using 7333 0666 0739 2474", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0649", "text": "i am travelling to kolkata and then worli", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 41, "label": "LOCATION"}]}
+{"id": "train_0650", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0651", "text": "schedule the meeting for 7 september 2029", "entities": [{"start": 25, "end": 41, "label": "DATE"}]}
+{"id": "train_0652", "text": "contact me on four oh four five four oh one nine nine six immediately", "entities": [{"start": 14, "end": 57, "label": "PHONE"}]}
+{"id": "train_0653", "text": "use card 7891 1903 0102 2969 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0654", "text": "my email id is amit dot verma at gmail dot in", "entities": [{"start": 15, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0655", "text": "varun reddy lives in kolkata", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "train_0656", "text": "my email id is priyanka dot malhotra at example dot net", "entities": [{"start": 15, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0657", "text": "my number is 6495182773", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0658", "text": "my name is amit sharma and email is suresh dot mehta at gmail dot com", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "train_0659", "text": "from pune to lucknow on april 27", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 20, "label": "CITY"}, {"start": 24, "end": 32, "label": "DATE"}]}
+{"id": "train_0660", "text": "send the details to ramesh dot singh at example dot net please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0661", "text": "call 4 8 7 0 2 8 3 8 8 9", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0662", "text": "i was born on february 22", "entities": [{"start": 14, "end": 25, "label": "DATE"}]}
+{"id": "train_0663", "text": "call 4 1 8 9 7 4 3 7 1 2", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0664", "text": "my name is varun gupta", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0665", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0666", "text": "my name is deepak malhotra", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}]}
+{"id": "train_0667", "text": "use card 3 4 5 9 0 9 1 1 3 6 6 0 0 8 4 8 for the transaction", "entities": [{"start": 9, "end": 40, "label": "CREDIT_CARD"}]}
+{"id": "train_0668", "text": "pay using 8397 8488 9061 9475", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0669", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0670", "text": "my name is priyanka iyer", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "train_0671", "text": "payment by 9288 3310 1268 3729 confirmed for 03 03 2020", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0672", "text": "from ahmedabad to bangalore on 18 06 2026", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 27, "label": "CITY"}, {"start": 31, "end": 41, "label": "DATE"}]}
+{"id": "train_0673", "text": "this is sneha malhotra speaking", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0674", "text": "contact me on 8190968105 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0675", "text": "i was born on 6 may 2024", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0676", "text": "payment by 8019 6977 2128 0087 confirmed for december 18", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 56, "label": "DATE"}]}
+{"id": "train_0677", "text": "this is suresh kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0678", "text": "my card number is 2163 9823 7169 0353", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0679", "text": "reach out to suresh dot singh at hotmail dot com", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0680", "text": "pay using 3210 3607 1034 8555", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0681", "text": "send the details to ramesh dot iyer at hotmail dot org please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0682", "text": "my email id is suresh dot kumar at yahoo dot in", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0683", "text": "use card 2414 5040 9353 0157 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0684", "text": "my card number is 3 0 3 9 3 4 1 4 4 9 5 1 2 1 6 8", "entities": [{"start": 18, "end": 49, "label": "CREDIT_CARD"}]}
+{"id": "train_0685", "text": "payment by 4588 3170 3017 0068 confirmed for 22 09 2024", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0686", "text": "contact me on oh eight oh three one seven naught eight three four immediately", "entities": [{"start": 14, "end": 65, "label": "PHONE"}]}
+{"id": "train_0687", "text": "i am travelling to jaipur and then connaught place", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 50, "label": "LOCATION"}]}
+{"id": "train_0688", "text": "my name is amit reddy", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0689", "text": "contact me on 2 8 2 3 2 5 8 5 3 8 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0690", "text": "reach out to aditi dot kumar at gmail dot org", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0691", "text": "call 7571825117", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0692", "text": "my number is zero six five six six three nine three two three", "entities": [{"start": 13, "end": 61, "label": "PHONE"}]}
+{"id": "train_0693", "text": "call 4306030526", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0694", "text": "i am travelling to mumbai and then koramangala", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0695", "text": "contact priyanka gupta at 0733060704", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}, {"start": 26, "end": 36, "label": "PHONE"}]}
+{"id": "train_0696", "text": "this is kavita verma speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0697", "text": "payment by 6547 1771 3580 0301 confirmed for 23 08 2026", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0698", "text": "contact aditi gupta at 4 9 6 0 6 2 2 4 0 5", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 42, "label": "PHONE"}]}
+{"id": "train_0699", "text": "contact aditi verma at 9366307290", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0700", "text": "payment by 4771 5751 3930 1150 confirmed for 16 march 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 58, "label": "DATE"}]}
+{"id": "train_0701", "text": "reach out to anjali dot iyer at example dot co dot in", "entities": [{"start": 13, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0702", "text": "my name is rahul reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0703", "text": "varun singh lives in chennai", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "train_0704", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0705", "text": "schedule the meeting for 1 january 2026", "entities": [{"start": 25, "end": 39, "label": "DATE"}]}
+{"id": "train_0706", "text": "i am travelling to hyderabad and then koramangala", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0707", "text": "contact vikram nair at naught six six five eight four nine seven five seven", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 75, "label": "PHONE"}]}
+{"id": "train_0708", "text": "my number is 2 3 8 3 7 3 3 6 3 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0709", "text": "my email id is rohan dot nair at yahoo dot co dot in", "entities": [{"start": 15, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0710", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0711", "text": "call 1 0 3 8 8 0 0 4 4 1", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0712", "text": "my name is amit verma", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0713", "text": "use card two eight two six three eight five five one nine four seven nine one nine two for the transaction", "entities": [{"start": 9, "end": 86, "label": "CREDIT_CARD"}]}
+{"id": "train_0714", "text": "my number is 0 3 9 9 9 9 6 9 4 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0715", "text": "i was born on 17 08 2022", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0716", "text": "contact suresh malhotra at 7994443643", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 27, "end": 37, "label": "PHONE"}]}
+{"id": "train_0717", "text": "my email id is arjun dot kumar at outlook dot net", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0718", "text": "use card 8489 3259 4367 5741 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0719", "text": "use card one five eight two five one nine two nine two one three six six five two for the transaction", "entities": [{"start": 9, "end": 81, "label": "CREDIT_CARD"}]}
+{"id": "train_0720", "text": "my card number is 1411 1136 2528 4325", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0721", "text": "contact priyanka sharma at 0 2 6 4 6 7 6 8 0 2", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}, {"start": 27, "end": 46, "label": "PHONE"}]}
+{"id": "train_0722", "text": "contact arjun kumar at one four two one seven one four two four nine", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 68, "label": "PHONE"}]}
+{"id": "train_0723", "text": "my name is suresh nair and email is amit dot patel at example dot org", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "train_0724", "text": "contact me on 6 3 5 2 1 8 1 9 9 6 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0725", "text": "contact priyanka yadav at 1162357208", "entities": [{"start": 8, "end": 22, "label": "PERSON_NAME"}, {"start": 26, "end": 36, "label": "PHONE"}]}
+{"id": "train_0726", "text": "contact me on 5503086326 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0727", "text": "my number is 6627828390", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0728", "text": "my name is rahul malhotra and email is vikram dot singh at yahoo dot net", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 39, "end": 72, "label": "EMAIL"}]}
+{"id": "train_0729", "text": "my number is six nine oh six two zero nine zero eight four", "entities": [{"start": 13, "end": 58, "label": "PHONE"}]}
+{"id": "train_0730", "text": "send the details to neha dot iyer at gmail dot in please", "entities": [{"start": 20, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0731", "text": "my number is 8 2 2 7 5 3 6 6 3 7", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0732", "text": "my number is two eight four two one four zero two one one", "entities": [{"start": 13, "end": 57, "label": "PHONE"}]}
+{"id": "train_0733", "text": "my card number is 6112 7838 5809 2478", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0734", "text": "use card 7553 4643 3917 0437 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0735", "text": "send the details to priyanka dot mehta at gmail dot net please", "entities": [{"start": 20, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0736", "text": "call seven seven five two six two zero seven five six", "entities": [{"start": 5, "end": 53, "label": "PHONE"}]}
+{"id": "train_0737", "text": "use card 7426 0896 0798 7070 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0738", "text": "my card number is 1505 5638 8260 8166", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0739", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0740", "text": "priyanka gupta lives in kolkata", "entities": [{"start": 0, "end": 14, "label": "PERSON_NAME"}, {"start": 24, "end": 31, "label": "CITY"}]}
+{"id": "train_0741", "text": "pay using 8825 7695 6152 4477", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0742", "text": "call 3 9 7 0 8 4 1 3 2 6", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0743", "text": "from pune to pune on 15 08 2028", "entities": [{"start": 5, "end": 9, "label": "CITY"}, {"start": 13, "end": 17, "label": "CITY"}, {"start": 21, "end": 31, "label": "DATE"}]}
+{"id": "train_0744", "text": "this is arjun nair speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0745", "text": "contact arjun yadav at zero seven eight five seven nine three nine six two", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 74, "label": "PHONE"}]}
+{"id": "train_0746", "text": "my name is ramesh verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0747", "text": "i am travelling to lucknow and then worli", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 41, "label": "LOCATION"}]}
+{"id": "train_0748", "text": "my name is aditi malhotra and email is varun dot mehta at example dot co dot in", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 39, "end": 79, "label": "EMAIL"}]}
+{"id": "train_0749", "text": "pay using 6241 1295 3585 6644", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0750", "text": "call 5 3 5 7 8 3 8 4 4 7", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0751", "text": "this is ramesh sharma speaking", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0752", "text": "reach out to varun dot yadav at hotmail dot in", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0753", "text": "this is neha malhotra speaking", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0754", "text": "this is arjun nair speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0755", "text": "this is rohan yadav speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0756", "text": "payment by 2174 7584 2375 0959 confirmed for march 5", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 52, "label": "DATE"}]}
+{"id": "train_0757", "text": "i am travelling to ahmedabad and then koramangala", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0758", "text": "from lucknow to mumbai on 19 march 2024", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 39, "label": "DATE"}]}
+{"id": "train_0759", "text": "this is deepak kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0760", "text": "meet me at juhu beach", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0761", "text": "use card seven six seven two naught oh six five five zero three three seven three three four for the transaction", "entities": [{"start": 9, "end": 92, "label": "CREDIT_CARD"}]}
+{"id": "train_0762", "text": "contact me on 9327319758 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0763", "text": "i am travelling to hyderabad and then worli", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 43, "label": "LOCATION"}]}
+{"id": "train_0764", "text": "my card number is 0 4 7 5 3 6 1 8 4 6 3 7 5 2 9 5", "entities": [{"start": 18, "end": 49, "label": "CREDIT_CARD"}]}
+{"id": "train_0765", "text": "this is aditi singh speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0766", "text": "my email id is rohan dot sharma at hotmail dot in", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0767", "text": "from bangalore to pune on 28 11 2029", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 22, "label": "CITY"}, {"start": 26, "end": 36, "label": "DATE"}]}
+{"id": "train_0768", "text": "schedule the meeting for 12 october 2026", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0769", "text": "contact ramesh nair at seven five eight seven eight nine seven seven eight five", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 79, "label": "PHONE"}]}
+{"id": "train_0770", "text": "payment by 1100 5857 6390 0644 confirmed for 5 august 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 58, "label": "DATE"}]}
+{"id": "train_0771", "text": "amit yadav lives in kolkata", "entities": [{"start": 0, "end": 10, "label": "PERSON_NAME"}, {"start": 20, "end": 27, "label": "CITY"}]}
+{"id": "train_0772", "text": "send the details to anjali dot reddy at hotmail dot in please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0773", "text": "reach out to kavita dot sharma at yahoo dot co dot in", "entities": [{"start": 13, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0774", "text": "from ahmedabad to delhi on 24 10 2026", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 23, "label": "CITY"}, {"start": 27, "end": 37, "label": "DATE"}]}
+{"id": "train_0775", "text": "call 3 3 9 1 4 6 1 7 4 8", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0776", "text": "my name is neha yadav", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0777", "text": "vikram sharma lives in mumbai", "entities": [{"start": 0, "end": 13, "label": "PERSON_NAME"}, {"start": 23, "end": 29, "label": "CITY"}]}
+{"id": "train_0778", "text": "my name is varun patel and email is neha dot gupta at yahoo dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 66, "label": "EMAIL"}]}
+{"id": "train_0779", "text": "payment by 6525 6907 5018 3611 confirmed for january 7", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 54, "label": "DATE"}]}
+{"id": "train_0780", "text": "schedule the meeting for 13 01 2023", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0781", "text": "meet me at indira nagar", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0782", "text": "suresh singh lives in hyderabad", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 31, "label": "CITY"}]}
+{"id": "train_0783", "text": "my number is 9537548437", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0784", "text": "contact me on nine four six naught five six six seven nine five immediately", "entities": [{"start": 14, "end": 63, "label": "PHONE"}]}
+{"id": "train_0785", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0786", "text": "my card number is 2529 5658 1917 0327", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0787", "text": "payment by 7216 7893 8237 1206 confirmed for september 17", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 57, "label": "DATE"}]}
+{"id": "train_0788", "text": "send the details to rahul dot mehta at gmail dot com please", "entities": [{"start": 20, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0789", "text": "this is rahul verma speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0790", "text": "my name is ramesh malhotra and email is aditi dot singh at outlook dot com", "entities": [{"start": 11, "end": 26, "label": "PERSON_NAME"}, {"start": 40, "end": 74, "label": "EMAIL"}]}
+{"id": "train_0791", "text": "from bangalore to pune on 16 november 2024", "entities": [{"start": 5, "end": 14, "label": "CITY"}, {"start": 18, "end": 22, "label": "CITY"}, {"start": 26, "end": 42, "label": "DATE"}]}
+{"id": "train_0792", "text": "contact me on 1 9 0 4 2 0 0 4 4 2 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0793", "text": "use card 4695 7198 0330 8405 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0794", "text": "use card 2598 2546 8034 4592 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0795", "text": "use card 4078 7067 1968 1551 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0796", "text": "use card 1068 6051 4384 0230 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0797", "text": "i am travelling to delhi and then connaught place", "entities": [{"start": 19, "end": 24, "label": "CITY"}, {"start": 34, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0798", "text": "my name is arjun kumar", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0799", "text": "from mumbai to delhi on 21 07 2030", "entities": [{"start": 5, "end": 11, "label": "CITY"}, {"start": 15, "end": 20, "label": "CITY"}, {"start": 24, "end": 34, "label": "DATE"}]}
+{"id": "train_0800", "text": "my email id is rohan dot singh at example dot co dot in", "entities": [{"start": 15, "end": 55, "label": "EMAIL"}]}
+{"id": "train_0801", "text": "i was born on 20 02 2028", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0802", "text": "meet me at worli", "entities": [{"start": 11, "end": 16, "label": "LOCATION"}]}
+{"id": "train_0803", "text": "contact me on seven one four one five eight one four oh eight immediately", "entities": [{"start": 14, "end": 61, "label": "PHONE"}]}
+{"id": "train_0804", "text": "my name is varun malhotra", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}]}
+{"id": "train_0805", "text": "i live in hyderabad", "entities": [{"start": 10, "end": 19, "label": "CITY"}]}
+{"id": "train_0806", "text": "my name is rahul malhotra and email is priyanka dot reddy at yahoo dot co dot in", "entities": [{"start": 11, "end": 25, "label": "PERSON_NAME"}, {"start": 39, "end": 80, "label": "EMAIL"}]}
+{"id": "train_0807", "text": "use card 8154 4698 4410 3437 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0808", "text": "contact vikram iyer at 7407258631", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0809", "text": "i am travelling to ahmedabad and then juhu beach", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "train_0810", "text": "my number is 0533377998", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0811", "text": "i was born on 16 07 2030", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0812", "text": "i am travelling to mumbai and then marine drive", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 47, "label": "LOCATION"}]}
+{"id": "train_0813", "text": "call 0309189921", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0814", "text": "reach out to varun dot kumar at yahoo dot org", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0815", "text": "this is aditi patel speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0816", "text": "schedule the meeting for 21 october 2023", "entities": [{"start": 25, "end": 40, "label": "DATE"}]}
+{"id": "train_0817", "text": "contact amit gupta at seven eight five two one eight four three three eight", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}, {"start": 22, "end": 75, "label": "PHONE"}]}
+{"id": "train_0818", "text": "contact vikram mehta at 2 1 4 5 4 3 6 1 6 7", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 43, "label": "PHONE"}]}
+{"id": "train_0819", "text": "use card 4558 9978 0775 5807 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0820", "text": "payment by 8909 9717 2730 7645 confirmed for 13 october 2024", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 60, "label": "DATE"}]}
+{"id": "train_0821", "text": "my number is 8 6 9 6 9 0 3 0 2 2", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0822", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0823", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0824", "text": "this is aditi singh speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0825", "text": "this is rahul reddy speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0826", "text": "schedule the meeting for august 26", "entities": [{"start": 25, "end": 34, "label": "DATE"}]}
+{"id": "train_0827", "text": "i was born on september 30", "entities": [{"start": 14, "end": 26, "label": "DATE"}]}
+{"id": "train_0828", "text": "use card five two zero five five four eight one three seven four seven three seven one nine for the transaction", "entities": [{"start": 9, "end": 91, "label": "CREDIT_CARD"}]}
+{"id": "train_0829", "text": "my number is six three seven three eight eight oh seven four nine", "entities": [{"start": 13, "end": 65, "label": "PHONE"}]}
+{"id": "train_0830", "text": "from chennai to ahmedabad on june 22", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 25, "label": "CITY"}, {"start": 29, "end": 36, "label": "DATE"}]}
+{"id": "train_0831", "text": "i live in chennai", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0832", "text": "use card 1359 2461 5161 2222 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0833", "text": "this is amit yadav speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0834", "text": "contact me on 4141673365 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0835", "text": "my name is neha kumar and email is amit dot nair at yahoo dot org", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}, {"start": 35, "end": 65, "label": "EMAIL"}]}
+{"id": "train_0836", "text": "my number is 7450006979", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0837", "text": "my number is 4778599717", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0838", "text": "call 8385162490", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0839", "text": "my name is deepak patel and email is suresh dot iyer at hotmail dot in", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}, {"start": 37, "end": 70, "label": "EMAIL"}]}
+{"id": "train_0840", "text": "my number is 0134957339", "entities": [{"start": 13, "end": 23, "label": "PHONE"}]}
+{"id": "train_0841", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0842", "text": "this is ramesh malhotra speaking", "entities": [{"start": 8, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0843", "text": "payment by 6685 7303 5721 9771 confirmed for may 24", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 51, "label": "DATE"}]}
+{"id": "train_0844", "text": "i live in kolkata", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0845", "text": "my number is 9 6 8 7 4 0 2 6 9 7", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0846", "text": "aditi mehta lives in kolkata", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "train_0847", "text": "this is suresh sharma speaking", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0848", "text": "my card number is 2959 2210 3807 4830", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0849", "text": "my card number is two five eight one six four five six five seven two two five three three three", "entities": [{"start": 18, "end": 96, "label": "CREDIT_CARD"}]}
+{"id": "train_0850", "text": "my card number is 0205 2527 1842 1598", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0851", "text": "i live in lucknow", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0852", "text": "this is ramesh kumar speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0853", "text": "contact suresh reddy at one oh seven three four two seven nine nine nine", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 72, "label": "PHONE"}]}
+{"id": "train_0854", "text": "i am travelling to chennai and then connaught place", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 51, "label": "LOCATION"}]}
+{"id": "train_0855", "text": "send the details to arjun dot verma at yahoo dot net please", "entities": [{"start": 20, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0856", "text": "i was born on july 24", "entities": [{"start": 14, "end": 21, "label": "DATE"}]}
+{"id": "train_0857", "text": "my name is rohan singh", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0858", "text": "i live in lucknow", "entities": [{"start": 10, "end": 17, "label": "CITY"}]}
+{"id": "train_0859", "text": "reach out to neha dot reddy at example dot org", "entities": [{"start": 13, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0860", "text": "use card 0013 1630 6179 8792 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0861", "text": "contact aditi patel at 6504766551", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0862", "text": "schedule the meeting for march 7", "entities": [{"start": 25, "end": 32, "label": "DATE"}]}
+{"id": "train_0863", "text": "reach out to anjali dot iyer at yahoo dot co dot in", "entities": [{"start": 13, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0864", "text": "contact me on 7243088188 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0865", "text": "contact me on 6959726296 immediately", "entities": [{"start": 14, "end": 24, "label": "PHONE"}]}
+{"id": "train_0866", "text": "payment by 0943 5421 0735 5514 confirmed for october 14", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0867", "text": "pay using 0558221868956711", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "train_0868", "text": "from delhi to hyderabad on 01 02 2024", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 23, "label": "CITY"}, {"start": 27, "end": 37, "label": "DATE"}]}
+{"id": "train_0869", "text": "pay using 5121 4947 7188 3439", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0870", "text": "my email id is neha dot gupta at outlook dot net", "entities": [{"start": 15, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0871", "text": "priyanka sharma lives in ahmedabad", "entities": [{"start": 0, "end": 15, "label": "PERSON_NAME"}, {"start": 25, "end": 34, "label": "CITY"}]}
+{"id": "train_0872", "text": "contact me on 0 2 5 2 3 6 3 5 8 9 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0873", "text": "my name is anjali verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0874", "text": "contact rohan yadav at 8 5 7 2 8 1 1 9 7 3", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 42, "label": "PHONE"}]}
+{"id": "train_0875", "text": "my number is 6 2 2 5 7 8 4 8 5 8", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0876", "text": "meet me at mg road", "entities": [{"start": 11, "end": 18, "label": "LOCATION"}]}
+{"id": "train_0877", "text": "pay using 0170 4952 7511 2155", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0878", "text": "i was born on 24 june 2029", "entities": [{"start": 14, "end": 26, "label": "DATE"}]}
+{"id": "train_0879", "text": "reach out to sneha dot reddy at gmail dot com", "entities": [{"start": 13, "end": 45, "label": "EMAIL"}]}
+{"id": "train_0880", "text": "my number is 8 9 1 2 0 7 6 7 0 7", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0881", "text": "contact me on four four seven five six seven three zero two one immediately", "entities": [{"start": 14, "end": 63, "label": "PHONE"}]}
+{"id": "train_0882", "text": "my name is varun reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0883", "text": "pay using 3389 4264 4980 3441", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0884", "text": "schedule the meeting for 13 july 2027", "entities": [{"start": 25, "end": 37, "label": "DATE"}]}
+{"id": "train_0885", "text": "meet me at whitefield", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0886", "text": "contact deepak reddy at two two nine seven two one nine five one two", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 68, "label": "PHONE"}]}
+{"id": "train_0887", "text": "payment by 4985 9010 4487 6422 confirmed for 22 02 2025", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0888", "text": "i was born on 20 05 2020", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0889", "text": "my number is six eight naught six one nine eight nine five six", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "train_0890", "text": "payment by 2450833087347289 confirmed for 12 january 2022", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}, {"start": 42, "end": 57, "label": "DATE"}]}
+{"id": "train_0891", "text": "call 4 4 9 8 3 8 6 7 8 0", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0892", "text": "pay using 9013 7716 4177 4297", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0893", "text": "vikram malhotra lives in lucknow", "entities": [{"start": 0, "end": 15, "label": "PERSON_NAME"}, {"start": 25, "end": 32, "label": "CITY"}]}
+{"id": "train_0894", "text": "my number is two two four four eight five four oh eight four", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "train_0895", "text": "i live in delhi", "entities": [{"start": 10, "end": 15, "label": "CITY"}]}
+{"id": "train_0896", "text": "pay using 7454 0751 6792 6879", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0897", "text": "meet me at koramangala", "entities": [{"start": 11, "end": 22, "label": "LOCATION"}]}
+{"id": "train_0898", "text": "contact me on five five five six two five oh nine two four immediately", "entities": [{"start": 14, "end": 58, "label": "PHONE"}]}
+{"id": "train_0899", "text": "my name is rahul reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0900", "text": "payment by 3572 0255 8645 8138 confirmed for 28 05 2030", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0901", "text": "pay using 0622032048926551", "entities": [{"start": 10, "end": 26, "label": "CREDIT_CARD"}]}
+{"id": "train_0902", "text": "varun yadav lives in ahmedabad", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 30, "label": "CITY"}]}
+{"id": "train_0903", "text": "call 9344016554", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0904", "text": "meet me at cyber city", "entities": [{"start": 11, "end": 21, "label": "LOCATION"}]}
+{"id": "train_0905", "text": "my name is priyanka malhotra", "entities": [{"start": 11, "end": 28, "label": "PERSON_NAME"}]}
+{"id": "train_0906", "text": "call 1 9 8 2 1 2 7 5 4 0", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0907", "text": "my email id is priyanka dot mehta at outlook dot net", "entities": [{"start": 15, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0908", "text": "schedule the meeting for 29 september 2028", "entities": [{"start": 25, "end": 42, "label": "DATE"}]}
+{"id": "train_0909", "text": "call 6908634266", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0910", "text": "my name is sneha verma", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0911", "text": "schedule the meeting for 29 august 2028", "entities": [{"start": 25, "end": 39, "label": "DATE"}]}
+{"id": "train_0912", "text": "contact me on eight six five one oh six zero four nine four immediately", "entities": [{"start": 14, "end": 59, "label": "PHONE"}]}
+{"id": "train_0913", "text": "contact priyanka nair at 9 4 7 1 0 4 3 0 8 2", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}, {"start": 25, "end": 44, "label": "PHONE"}]}
+{"id": "train_0914", "text": "i was born on december 30", "entities": [{"start": 14, "end": 25, "label": "DATE"}]}
+{"id": "train_0915", "text": "use card 8422 2658 9970 2225 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0916", "text": "i am travelling to chennai and then cyber city", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 46, "label": "LOCATION"}]}
+{"id": "train_0917", "text": "i am travelling to hyderabad and then cyber city", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 48, "label": "LOCATION"}]}
+{"id": "train_0918", "text": "my name is vikram gupta", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0919", "text": "my email id is kavita dot nair at gmail dot net", "entities": [{"start": 15, "end": 47, "label": "EMAIL"}]}
+{"id": "train_0920", "text": "reach out to anjali dot patel at hotmail dot org", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0921", "text": "use card 4429 2142 9116 6222 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0922", "text": "call eight seven one five one two one seven two five", "entities": [{"start": 5, "end": 52, "label": "PHONE"}]}
+{"id": "train_0923", "text": "i am travelling to lucknow and then connaught place", "entities": [{"start": 19, "end": 26, "label": "CITY"}, {"start": 36, "end": 51, "label": "LOCATION"}]}
+{"id": "train_0924", "text": "contact varun reddy at 4946527657", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}, {"start": 23, "end": 33, "label": "PHONE"}]}
+{"id": "train_0925", "text": "schedule the meeting for 12 07 2023", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0926", "text": "vikram nair lives in ahmedabad", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 30, "label": "CITY"}]}
+{"id": "train_0927", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0928", "text": "my email id is ramesh dot nair at outlook dot org", "entities": [{"start": 15, "end": 49, "label": "EMAIL"}]}
+{"id": "train_0929", "text": "my name is arjun patel and email is priyanka dot mehta at outlook dot org", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 73, "label": "EMAIL"}]}
+{"id": "train_0930", "text": "schedule the meeting for 2 may 2029", "entities": [{"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0931", "text": "send the details to varun dot verma at hotmail dot net please", "entities": [{"start": 20, "end": 54, "label": "EMAIL"}]}
+{"id": "train_0932", "text": "contact deepak kumar at 9067692228", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}, {"start": 24, "end": 34, "label": "PHONE"}]}
+{"id": "train_0933", "text": "call 7 0 6 1 5 4 1 1 8 3", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0934", "text": "use card 4565 6390 7524 9777 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0935", "text": "call 8261830167", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0936", "text": "my name is kavita verma", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0937", "text": "my number is nine nine eight four two five seven five six four", "entities": [{"start": 13, "end": 62, "label": "PHONE"}]}
+{"id": "train_0938", "text": "this is rohan gupta speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0939", "text": "use card 1308 7361 6284 4416 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0940", "text": "payment by 9951397011304175 confirmed for december 24", "entities": [{"start": 11, "end": 27, "label": "CREDIT_CARD"}, {"start": 42, "end": 53, "label": "DATE"}]}
+{"id": "train_0941", "text": "i am travelling to mumbai and then mg road", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 42, "label": "LOCATION"}]}
+{"id": "train_0942", "text": "use card 1665 5222 2407 3879 for the transaction", "entities": [{"start": 9, "end": 28, "label": "CREDIT_CARD"}]}
+{"id": "train_0943", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0944", "text": "my email id is rahul dot verma at yahoo dot co dot in", "entities": [{"start": 15, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0945", "text": "this is varun sharma speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0946", "text": "my name is deepak singh", "entities": [{"start": 11, "end": 23, "label": "PERSON_NAME"}]}
+{"id": "train_0947", "text": "ramesh kumar lives in delhi", "entities": [{"start": 0, "end": 12, "label": "PERSON_NAME"}, {"start": 22, "end": 27, "label": "CITY"}]}
+{"id": "train_0948", "text": "call 6164154821", "entities": [{"start": 5, "end": 15, "label": "PHONE"}]}
+{"id": "train_0949", "text": "arjun iyer lives in jaipur", "entities": [{"start": 0, "end": 10, "label": "PERSON_NAME"}, {"start": 20, "end": 26, "label": "CITY"}]}
+{"id": "train_0950", "text": "this is amit mehta speaking", "entities": [{"start": 8, "end": 18, "label": "PERSON_NAME"}]}
+{"id": "train_0951", "text": "call 1 7 0 6 7 5 5 3 7 1", "entities": [{"start": 5, "end": 24, "label": "PHONE"}]}
+{"id": "train_0952", "text": "reach out to aditi dot sharma at gmail dot co dot in", "entities": [{"start": 13, "end": 52, "label": "EMAIL"}]}
+{"id": "train_0953", "text": "contact me on 8 0 2 3 1 9 6 4 8 2 immediately", "entities": [{"start": 14, "end": 33, "label": "PHONE"}]}
+{"id": "train_0954", "text": "i am travelling to mumbai and then mg road", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 42, "label": "LOCATION"}]}
+{"id": "train_0955", "text": "pay using 0387 1677 0426 8997", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0956", "text": "sneha patel lives in chennai", "entities": [{"start": 0, "end": 11, "label": "PERSON_NAME"}, {"start": 21, "end": 28, "label": "CITY"}]}
+{"id": "train_0957", "text": "send the details to sneha dot malhotra at hotmail dot org please", "entities": [{"start": 20, "end": 57, "label": "EMAIL"}]}
+{"id": "train_0958", "text": "my name is priyanka iyer and email is amit dot singh at gmail dot in", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}, {"start": 38, "end": 68, "label": "EMAIL"}]}
+{"id": "train_0959", "text": "my name is amit patel", "entities": [{"start": 11, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0960", "text": "meet me at connaught place", "entities": [{"start": 11, "end": 26, "label": "LOCATION"}]}
+{"id": "train_0961", "text": "this is kavita mehta speaking", "entities": [{"start": 8, "end": 20, "label": "PERSON_NAME"}]}
+{"id": "train_0962", "text": "meet me at marine drive", "entities": [{"start": 11, "end": 23, "label": "LOCATION"}]}
+{"id": "train_0963", "text": "i was born on 23 march 2020", "entities": [{"start": 14, "end": 27, "label": "DATE"}]}
+{"id": "train_0964", "text": "reach out to deepak dot sharma at example dot in", "entities": [{"start": 13, "end": 48, "label": "EMAIL"}]}
+{"id": "train_0965", "text": "this is rahul patel speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0966", "text": "my number is five two five naught zero seven three two two five", "entities": [{"start": 13, "end": 63, "label": "PHONE"}]}
+{"id": "train_0967", "text": "my card number is 4540 1971 7030 6873", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0968", "text": "my number is 6 0 1 9 8 5 1 8 4 5", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0969", "text": "reach out to rahul dot singh at example dot co dot in", "entities": [{"start": 13, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0970", "text": "i live in mumbai", "entities": [{"start": 10, "end": 16, "label": "CITY"}]}
+{"id": "train_0971", "text": "my name is amit malhotra", "entities": [{"start": 11, "end": 24, "label": "PERSON_NAME"}]}
+{"id": "train_0972", "text": "my name is aditi yadav and email is ramesh dot mehta at yahoo dot org", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 69, "label": "EMAIL"}]}
+{"id": "train_0973", "text": "i am travelling to bangalore and then koramangala", "entities": [{"start": 19, "end": 28, "label": "CITY"}, {"start": 38, "end": 49, "label": "LOCATION"}]}
+{"id": "train_0974", "text": "my number is six five one nine one eight three seven two six", "entities": [{"start": 13, "end": 60, "label": "PHONE"}]}
+{"id": "train_0975", "text": "i live in pune", "entities": [{"start": 10, "end": 14, "label": "CITY"}]}
+{"id": "train_0976", "text": "this is amit sharma speaking", "entities": [{"start": 8, "end": 19, "label": "PERSON_NAME"}]}
+{"id": "train_0977", "text": "my name is rohan singh and email is amit dot patel at gmail dot co dot in", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}, {"start": 36, "end": 73, "label": "EMAIL"}]}
+{"id": "train_0978", "text": "my number is 1 8 1 2 8 4 4 8 7 7", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
+{"id": "train_0979", "text": "i was born on 31 january 2020", "entities": [{"start": 14, "end": 29, "label": "DATE"}]}
+{"id": "train_0980", "text": "from lucknow to jaipur on march 8", "entities": [{"start": 5, "end": 12, "label": "CITY"}, {"start": 16, "end": 22, "label": "CITY"}, {"start": 26, "end": 33, "label": "DATE"}]}
+{"id": "train_0981", "text": "payment by 1052 7319 1020 5436 confirmed for 7 may 2027", "entities": [{"start": 11, "end": 30, "label": "CREDIT_CARD"}, {"start": 45, "end": 55, "label": "DATE"}]}
+{"id": "train_0982", "text": "my name is arjun yadav", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0983", "text": "my card number is 0811 3395 8617 5529", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0984", "text": "call naught three five seven zero one nine one naught eight", "entities": [{"start": 5, "end": 59, "label": "PHONE"}]}
+{"id": "train_0985", "text": "my name is rohan reddy", "entities": [{"start": 11, "end": 22, "label": "PERSON_NAME"}]}
+{"id": "train_0986", "text": "i was born on 12 04 2029", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0987", "text": "pay using 8696 1950 2930 0583", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0988", "text": "reach out to priyanka dot malhotra at gmail dot net", "entities": [{"start": 13, "end": 51, "label": "EMAIL"}]}
+{"id": "train_0989", "text": "i am travelling to jaipur and then mg road", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 42, "label": "LOCATION"}]}
+{"id": "train_0990", "text": "send the details to kavita dot nair at outlook dot in please", "entities": [{"start": 20, "end": 53, "label": "EMAIL"}]}
+{"id": "train_0991", "text": "i was born on 14 02 2025", "entities": [{"start": 14, "end": 24, "label": "DATE"}]}
+{"id": "train_0992", "text": "from delhi to chennai on 11 05 2030", "entities": [{"start": 5, "end": 10, "label": "CITY"}, {"start": 14, "end": 21, "label": "CITY"}, {"start": 25, "end": 35, "label": "DATE"}]}
+{"id": "train_0993", "text": "my email id is amit dot kumar at yahoo dot org", "entities": [{"start": 15, "end": 46, "label": "EMAIL"}]}
+{"id": "train_0994", "text": "this is suresh sharma speaking", "entities": [{"start": 8, "end": 21, "label": "PERSON_NAME"}]}
+{"id": "train_0995", "text": "my card number is 9094 2468 2106 7036", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0996", "text": "i am travelling to jaipur and then indira nagar", "entities": [{"start": 19, "end": 25, "label": "CITY"}, {"start": 35, "end": 47, "label": "LOCATION"}]}
+{"id": "train_0997", "text": "my card number is 9453 9370 8864 2967", "entities": [{"start": 18, "end": 37, "label": "CREDIT_CARD"}]}
+{"id": "train_0998", "text": "pay using 4919 1177 0091 6330", "entities": [{"start": 10, "end": 29, "label": "CREDIT_CARD"}]}
+{"id": "train_0999", "text": "my number is 9 5 3 5 3 0 1 9 4 4", "entities": [{"start": 13, "end": 32, "label": "PHONE"}]}
